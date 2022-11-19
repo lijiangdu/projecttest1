@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<style>
+	*{margin:0;padding:0}
+	.pt_loading_box{padding:100px 0;}
+	.pt_loading{background:url(//ptlogin.3304399.net/resource/images/loading.gif?v=258) no-repeat;width:100px;height:30px;margin:0px auto; }
+	body{ background:transparent;}
+</style>
+</head>
+<body>
+<div class="pt_loading_box">
+	<div class="pt_loading"></div>
+</div>
+<script type="text/javascript">
+try {
+	var showRealnameTip = "0";
+	var needVerifyIdcard = false;
+
+	var params = {}
+		params.needVerifyIdcard = needVerifyIdcard;
+		params.source = "4399";
+		params.showRealnameTip = showRealnameTip;
+		params.level = "0";
+	
+	try{
+			params.postLoginHandler = "default";
+	}catch(e){
+		
+	}
+
+	dd = document.domain.split('.');
+	document.domain = dd[dd.length - 2] + '.' + dd[dd.length - 1];
+
+	var tt=setTimeout(function(){
+		clearTimeout(tt);
+		if(window.parent.UniLogin.loginPostHandle){
+			window.parent.UniLogin.loginPostHandle(params);
+		}else{
+			if(params.postLoginHandler == "default"){
+				window.parent.closePopupLoginDiv();
+				if(params.source == "4399" && params.showRealnameTip && params.showRealnameTip == "1" && window.parent.UniLogin.showRealnameTip && window.parent.unionLoginProps.__cross_domain != "1") {
+					window.parent.UniLogin.showRealnameTip();
+				}
+				window.parent.UniLogin.defaultPostLogin();
+			}else if(params.postLoginHandler == "redirect"){
+				window.parent.location.href = params.redirectUrl;
+			}else if(params.postLoginHandler == "refreshParent"){
+				window.parent.location.href = window.parent.location.href;
+			}else{}
+		}
+	},5)
+}catch(e){
+		alert(e.name,e.message);
+	}
+</script>
+<script type="text/javascript">
+	try {
+					parent.crossDomainSig = "28660bd83bb6f12b0dc0d9c1196be2d1";
+		
+			parent.timestamp = "1644651464734";
+		
+	} catch (e) {
+	}
+</script>
+</body>
+</html>

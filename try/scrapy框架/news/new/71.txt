@@ -1,0 +1,59 @@
+普京的胜利？受惊吓的欧洲领导人“排队”访克宫
+                    
+                    
+                        （原标题：普京的胜利？受惊吓的欧洲领导人“排队”访克宫）
+                    
+                    
+                    在乌克兰危机持续胶着之际，近期，莫斯科却“宾客盈门”，法国总统、德国总理、英国外交大臣等欧洲大国首脑、政要将纷至沓来。美联社称，近年来，欧洲领导人出访鲜有“问津”俄罗斯。如今，克里姆林宫却成了受惊吓的欧洲领导人的首选出访地。外界分析，由于乌克兰紧张局势迟未降温，忧心忡忡的欧洲领导人迫切想与俄总统普京直接对话，以缓和危机。其中，法国总统马克龙本周的俄乌之行尤其受到关注，但外界对马克龙此行能否取得成效打上问号。局势缓和的曙光？为缓解乌克兰危机，本周开始，欧洲领导人、政要将“排队”访俄，法国总统马克龙将打头阵。周一，他启程飞往莫斯科，将同普京会谈；次日还将访问基辅，与乌克兰总统泽连斯基会晤。“此行首要任务是与俄罗斯对话并缓和乌克兰紧张局势。”马克龙说。据英国广播公司（BBC）7日报道，出访之前，马克龙在接受法国《星期日报》采访时表示，他认为一项避免在乌克兰发生战争的协议是可能的，俄罗斯提出自己的安全担忧是合理的。马克龙说，俄罗斯今天的地缘政治目标不是乌克兰，而是想要确定与北约、欧盟相处的规则。他希望与普京的会谈足以防止军事冲突，并相信普京将对讨论更广泛的问题持开放态度。马克龙还呼吁建立一种能维护主权与和平的“新平衡”来保护欧洲国家，同时安抚俄罗斯。但他重申，乌克兰的主权不容讨论。在马克龙访俄之后，英国外交大臣特拉斯周四也将访问莫斯科，与俄外长拉夫罗夫会晤，这是4年来英国外交大臣首次访俄。下周，访美归来的德国总理朔尔茨也将访俄。德国政府发言人表示，朔尔茨将在本月14日和15日访问基辅和莫斯科。外界预计，朔尔茨将在盟友的压力下展开此访，他被要求向俄罗斯发出明确信号。在处理乌克兰危机中，德国因不够配合、过于谨慎受到北约盟友埋怨，包括不愿向乌克兰提供武器、在制裁俄罗斯方面（特别是涉及“北溪-2”天然气管道问题）含糊其词等等。对于欧洲方面开展的外交努力，外界似乎看到一丝局势缓和的曙光。美联社称，继上周匈牙利总理造访克宫后，法德领导人也将相继往访，“所有人都希望能与普京取得联系”。有分析人士称，从某种意义上看，普京已取得一些胜利。同时，这些迹象也表明紧张关系或能解冻。欧洲外交在过去也曾帮助缓和紧张局势。比如，在克里米亚事件后，2015年，通过法国和德国的斡旋，乌克兰东部的大规模冲突得以平息。
+	
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://static.ws.126.net/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://static.ws.126.net/video/img14/zhuzhan/play.png"); }
+
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://static.ws.126.net/video/img14/zhuzhan/play.png");}
+	
+	
+		
+			
+				
+					
+					
+					
+					
+					
+					
+					
+						
+							
+							
+							
+							
+							
+						
+						
+					
+					 if (1/*/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)*/){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://videoimg.ws.126.net/cover/20220208/Sk8Zy39ot_cover.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/2994895355198641763982037203dfa23e0330e35d2deac83a51efdb6a5a173c9678ecdfddb940e7e8dff2a09b19a6df86eb59df52d67e547a678408ef1f5da5da245c9b60af1eaa5ee18fb7e9422f0b05c3fddfec60203102c3507c7e73bc5b4cac9035d0f58ac6d231fcd66d5d6a8031e82d24e79e36ca.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+				
+				
+					
+						普京严厉警告：若乌克兰加入北约，俄罗斯恐将与欧洲一战
+						（来源：澎湃新闻）
+					
+                                         				
+				
+					
+                                                					
+				
+			
+			
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(1/*(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)*/){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';NTES(".video-inner .video").attr("style", "background: #000;");}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+		
+		
+《纽约时报》评论道，在乌克兰问题上，西方与俄罗斯的对峙进入关键阶段。美国正在向东欧派兵，俄罗斯在乌克兰边境集结更多部队。但是，在紧张局势下，各方仍在探索外交途径以化解危机，潜在解决方案的轮廓可能正在形成，虽然尚未定型。马克龙在“掷骰子”在欧洲领导人的穿梭访问中，马克龙的莫斯科之行似乎更引人瞩目。马克龙此前一直呼吁与俄罗斯重建关系。今年1月，法国接棒成为欧盟轮值主席国之后，一心寻求欧洲“战略自主”的马克龙更是想在乌克兰危机中有所作为。他认为，在这场威胁欧洲大陆稳定的危机中，欧洲人必须拥有发言权。欧盟应该与俄罗斯对话，制定“新的欧洲安全秩序”，而不是依赖美国。事实上，为了这次俄乌之行，马克龙也是做足了功课。行前，他与俄、乌、美、英等国领导人密集通话。6日，在与美国总统拜登通话中，马克龙强调，不要指望莫斯科采取单方面措施缓解局势，并表示俄罗斯有权提出自己的担忧。他还指出，与俄罗斯建立对话的前提是不能“削弱任何一个欧洲国家”。《纽约时报》分析，马克龙此访有双重目的：一是防止战争爆发；二是安抚俄方对北约东扩的不满情绪，最终目标是将俄罗斯纳入新的欧洲安全体系。访问中，马克龙料将大力兜售欧洲主推的“诺曼底模式”四方会谈，并将与拜登“对表”后的信息传递给普京，试探普京在这轮对峙中的底线到底是什么。不过，尽管马克龙誓言要给乌克兰危机降温，声称希望与普京的会谈能防止军事冲突，但是舆论为他捏把汗。外界指出，事实已经证明，自2017年上台以来，马克龙在普京身上下的功夫收效甚微。路透社称，马克龙一直以高调发起外交魅力攻势而闻名。过去数年来，他对普京软硬兼施，既促成双方密切的对话——马克龙曾在凡尔赛宫、总统避暑官邸布雷冈松堡接待过普京，但也带来痛苦的挫折——比如马克龙的诸多示好并未阻止俄罗斯进入法国在非洲的传统势力范围。“马克龙在玩一场潜在的危险游戏。”《纽约时报》评论称，他试图在建立欧洲新安全秩序与对美国和北约的承诺之间取得平衡。外界还分析称，马克龙此时走入国际舞台的聚光灯下不乏私心考量。一方面，马克龙试图利用乌克兰危机成为欧洲新领袖，以取代德国前总理默克尔；另一方面为谋求连任蓄势。据路透社报道，接近马克龙的消息人士称，马克龙此行的一个目的是争取时间，避免乌克兰局势在几个月内出现恶化，至少能挨到欧洲顺利度过“超级四月”的选举季之后。法国、匈牙利、斯洛文尼亚都将在今年4月举行大选。尽管马克龙尚未宣布会否参选总统，但他的政治顾问看到潜在的选举红利。一名法国政府消息人士说：“对于总统来说，这是一个展示他在欧洲领导力的机会。”在路透社看来，马克龙的莫斯科之行是一次高风险的外交行动。马克龙为此投入高昂的政治资本，如果空手而归，不免尴尬。一名接近马克龙的消息人士也坦言：“从很多方面来说，此行无异于掷骰子。”
+                    
+                

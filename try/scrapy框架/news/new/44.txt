@@ -1,0 +1,59 @@
+俄外交部发言人扎哈罗娃斥布林肯:患上＂恐俄症＂ 幼稚且胡言乱语
+                    
+                    
+                        （原标题：俄外交部发言人扎哈罗娃斥布林肯:患上"恐俄症" 幼稚且胡言乱语）
+                    
+                    
+                    扎哈罗娃（资料图）海外网1月9日电 美国国务卿布林肯7日就哈萨克斯坦问题指责俄方，对此，俄外交部发言人扎哈罗娃怒斥美方“幼稚且胡言乱语”。
+	
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://static.ws.126.net/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://static.ws.126.net/video/img14/zhuzhan/play.png"); }
+
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://static.ws.126.net/video/img14/zhuzhan/play.png");}
+	
+	
+		
+			
+				
+					
+					
+					
+					
+					
+					
+					
+						
+							
+							
+							
+							
+							
+						
+						
+					
+					 if (1/*/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)*/){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://videoimg.ws.126.net/cover/20220108/w5JKogBt7_cover.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/2994895355198641a6b3ca4842b88393ce3d26b072aa501052d1b47399d80d72b43dea601eaba76d5a1c01b6170d76e22fc4d012345e738fa9346e092bec989fb830af70b70b6f043a2cbeeae3d1a6ba49e3d5ec98911b43d8843b3a9ab506c6bde07994660afd97c33f5c22df502c33a975a1ea974ad89a.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+				
+				
+					
+						俄率集体安全组织出兵哈萨克斯坦，布林肯又来说闲话了
+						（来源：观察者网）
+					
+                                         				
+				
+					
+                                                					
+				
+			
+			
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(1/*(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)*/){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';NTES(".video-inner .video").attr("style", "background: #000;");}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+		
+		
+综合俄罗斯卫星通信社、红星电视台9日报道，扎哈罗娃在YouTube一档直播节目中表示,美国国务卿布林肯的声明是“幼稚且胡言乱语”。“你说这是恐俄症。我认为这是绝望和缺乏论据的表现。确切的说，（美国）是因为缺乏论据而感到绝望。现在有人向美国人提出关于哈萨克斯坦的问题，他们感到困惑，不知道该说些什么。所以才会如此幼稚且胡言乱语。”扎哈罗娃说道。此前，美国国务卿布林肯7日在记者会上就集安组织向哈萨克斯坦派遣维和人员的决定表示“担忧”，还称“俄罗斯人一旦进入你家，有时就很难让他们离开”。随后，俄罗斯外交部怒斥，“布林肯以他典型的粗鲁方式，就哈萨克斯坦的悲惨事件开玩笑”。（海外网 张敏）新闻背景俄向哈萨克斯坦派维和部队 布林肯:就很难让他们离开【文/观察者网 刘骞】俄罗斯率集安组织出兵维和后，哈萨克斯坦至7日“基本恢复宪法秩序”。此时，美国务卿布林肯开始说“闲话”了。据美国务院网站7日消息，国务卿布林肯在当天的记者会上称，美国对哈萨克斯坦请求集安组织派兵维和的真实原因表示怀疑，而且还挑拨地表示，近代史经验表明一旦俄罗斯人来了，“有时就很难让他们离开”。对此，俄罗斯外交部8日反击称，一旦美国人来了，“你将很难活着”。美国国务院网站截图当地时间1月7日，美国国务卿布林肯召开例行新闻发布会。会议大部分问题与乌克兰局势有关，布林肯刻意渲染了乌克兰边境问题的严峻性及所谓俄罗斯对于欧洲和平的威胁。有记者问及与之相关的哈萨克斯坦局势，布林肯先表态，美国政府全力支持哈萨克斯坦宪法机构，反对任何形式的暴力行为，但同时也表示哈当局应当保护抗议者、维护他们的合法权利。1月7日，布林肯举行例行发布会，视频截图接着，布林肯还说起了“闲话”。他声称，美国政府对于哈萨克斯坦请求集安组织出兵维和的真实原因表示怀疑。他觉得，哈萨克斯坦政府能够处理好所谓的“抗议活动”，有能力既维护法律秩序又保护好“抗议者”的权利，无需任何的外部援助。集安组织全称为独联体集体安全条约组织，成立于2002年5月，前身是1992年签署的独联体集体安全条约。该组织属于区域性军事同盟，组织成员国包括俄罗斯、白俄罗斯、亚美尼亚、哈萨克斯坦、塔吉克斯坦和吉尔吉斯斯坦6国。总部设在莫斯科，各国轮值担任主席国。此外，布林肯语带挑拨、渲染俄罗斯威胁，称让俄罗斯派遣的维和力量进入国内不是一件好事。因为近代历史经验表明，“一旦俄罗斯人进入你的房子，有时就很难让他们离开”（It’s sometimes very difficult to get them to leave）。值得注意的是，美国官方喉舌媒体“美国之音”8日也渲染俄罗斯不是“免费出兵”，“请神容易送神难”。对于布林肯的“挑拨之辞”，俄罗斯外交部发言人玛丽亚·扎哈罗娃随即予以反击，称布林肯的发言是在拿哈萨克斯坦的“悲惨事件”开粗野玩笑。今日俄罗斯报道截图据今日俄罗斯（RT）8日报道，玛丽亚·扎哈罗娃模仿布林肯的句式回敬道“一旦美国人进入你的屋子，你将很难活着，也很难不被抢劫和强奸”，“北美的印第安人、朝鲜人、越南人、伊拉克人、巴拿马人、南斯拉夫人、利比亚人、叙利亚人和其他许多不幸地在自己‘家’中看到不速之客的人，他们对此有很多话要说”。此外，中国日报社欧洲分社社长陈卫华也在社交媒体上点出布林肯发言的虚伪性。他说：“哈哈，美国军队是如此容易离开，只在阿富汗待了20年。”“至少俄罗斯是接受了哈萨克斯坦政府的邀请，我不认为美国有接受到阿富汗政府的邀请。”“在阿富汗20年，在日本和韩国70多年还没离开，这就是所谓的美国军队多么容易离开。”对此，有网友清醒地表示，布林肯只是想要在该地区的“影响力”罢了，他并不在乎哈萨克斯坦民众的情况如何。据了解，哈萨克斯坦由大规模抗议活动演变而来的骚乱暴动已经有所缓和。包括俄罗斯在内的集安组织成员国派遣的维和力量已与6日晚陆续抵达哈境内。1月7日，哈萨克斯坦总统托卡耶夫发布声明称，当地政府已经控制住了局势，反恐行动已启动，全国各地的宪法秩序基本上已经恢复。不过，托卡耶夫也指出，不是所有“激进分子”都放下了武器，“仅在阿拉木图，就有2万名强盗”。他表示已经下令执法部门和军队可在没有警告的情况下开火，“对他们的斗争必须进行到底，谁不投降就会被消灭”。相关新闻白宫质疑维和部队进驻哈萨克斯坦 俄外交部发言人回呛扎哈罗娃（资料图）海外网1月7日电 塔斯社7日报道称，白宫新闻秘书普萨基在6日的记者会上质疑维和部队进驻哈萨克斯坦的合法性。对此，俄罗斯外交部发言人扎哈罗娃评论称，一些美国代表不了解哈萨克斯坦发生的事情，还将这种误解作为华盛顿官方立场。俄罗斯向哈萨克斯坦派遣维和部队扎哈罗娃在社交媒体上写道：“每个人都习惯了这样一个事实，即华盛顿的一些代表并不了解所有的事情，还将它当作美国的立场。”普萨基6日表示，美国正在密切关注关于集安组织向哈萨克斯坦派遣维和部队的报告。白宫对哈萨克斯坦派遣维和部队的请求性质有疑问，质疑这是否是一个合法的邀请。阿拉木图爆发抗议哈萨克斯坦近日爆发大规模抗议活动，骚乱已造成18名执法人员死亡、748人受伤，哈执法机构已经逮捕了2298人。集安组织6日发表正式声明，称向哈萨克斯坦派出维和部队，协助稳定当地局势。目前，维和部队俄分队已经抵达哈萨克斯坦。俄罗斯外交部6日表示，在哈萨克斯坦发生的暴乱是由外部势力煽动的，并企图破坏哈国家完整，为了达到目的还组织了武装行动。俄方面将协助哈萨克斯坦安全部门开展反恐行动，保护哈国民以及其他重要基础设施的安全，帮助哈萨克斯坦尽快恢复正常社会秩序。（海外网 张琪）
+                    
+                

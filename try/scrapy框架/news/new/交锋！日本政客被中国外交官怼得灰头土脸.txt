@@ -1,0 +1,59 @@
+
+                    
+                    
+                        （原标题：交锋！日本政客被中国外交官怼得灰头土脸）
+                    
+                    
+                    日前，中国驻大阪总领事馆以“新疆是个好地方——疫情后赴中国新疆旅游招募”为题发布消息，面向日本民众募集在新冠肺炎疫情后赴新疆旅游的人员。该消息一经发布即在中日两国引起广泛关注。据驻大阪总领馆负责人介绍，“此次访疆活动直接戳到日本反华势力的软肋和痛处，他们害怕抹黑新疆的谎言被揭穿，于是声称‘中国总领馆花钱收买人心’、‘恐怕旅行是单程票，有去无回’、‘去到中国将受到监视’等，企图歪曲这次活动初衷，达到阻止日本民众参与活动的目的。”日本右翼政客、前众议员长尾敬就是其中颇具“代表性”和“戏剧性”的一位。长尾曾于2018年担任安倍政权的内阁府政务官，在今年的众议院选举中落败，失去议员职位。他一贯鼓吹修改日本和平宪法第九条、主张日本行使集体自卫权，在历史问题上更顽固认为应修改“村山谈话”和“河野谈话”以及日本首相应当参拜靖国神社。长尾敬（图源：产经新闻）前不久，长尾又在推特上对中国驻大阪总领馆邀请日本民众访问新疆活动冷嘲热讽，遭到中国驻大阪总领事薛剑反戈一击、“请君入瓮”。此事引发众多网友持续围观，其中不少网友对中方组织访疆活动和薛剑本人表示支持，对长尾敬提出批评。且看薛剑总领事与长尾敬的数轮交锋：中国驻大阪总领事薛剑 资料图12月5日，长尾敬就此次访疆旅游招募活动发推文称“我报名参加的话还能回到日本吗？”，对活动及主办方冷嘲热讽。薛剑总领事随后也以推文形式回应长尾敬称，如果你有勇气前往新疆，可自由报名。你需要担心的不是能否回到日本，而是当接触到真实的新疆，至今深信不疑的那些关于新疆的谣言不攻自破时，你能否承受得了这样的冲击。此时，一些日本网友已经对长尾的发言颇感不满，批评长尾做法幼稚轻率，作为前国会议员自损形象。↓长尾敬败了头阵，仍硬着头皮继续叫嚣。12月8日，长尾提出访疆“条件”，必须要让所谓“冒着生命危险逃离强制收容所的维吾尔族民众当向导”。5分钟后再次回复自己，“这个提议难度太大，因此决定不参加此次访疆活动”，企图“借坡下驴”。薛剑总领事随即跟帖，指出长尾自设条件回绝访疆，形同耍赖，缺乏应有的常识、勇气和诚意。此时的长尾已经沦为网友笑柄。不少日本网友似乎看出了长尾敬在打退堂鼓，纷纷跟帖怂恿他报名参加访疆活动。更有网友翻出十多年前长尾敬随团访华期间参加中国领导人接见时满脸堆笑的照片，讽刺他变脸真快，是日本政坛的墙头草。↓12月10日，薛剑总领事主动出击，表示经协调可以同意长尾所谓提议，询问长尾究竟是否访疆。这可以说是对长尾祭出最后一记杀招。对此，长尾顾左右而言他，仍声称无法保证安全等，不敢明确表态。12月10日，薛剑总领事再次出击，批评长尾推三阻四、言而无信，实在是缺乏政治家应有的勇气和诚意，跟这样的人多说无益。几番交锋下来，长尾已是灰头土脸，只好闭口噤声，草草收场。虽然还有少数网络右翼嘴硬，但绝大多数日本网友批评长尾始乱终弃，太过猥琐，所谓对华强硬的“爱国之士”不过是个软蛋，让自己名誉扫地，已无颜面重返政坛。从本次新疆旅游招募活动发布的内容来看，驻大阪总领馆所发消息将新疆的“美景”“美食”和“美人”作为推介重点，并附上报名链接，邀请日本民众在新冠肺炎疫情后，亲自到新疆感受当地风土人情。线上报名窗口一经发布，便引起热烈反响。截至16日，已经有806人登记报名，东京体育、TBS电视台等日本媒体对活动进行了报道，日文推特上“#新疆旅行”一度成为了热门话题。
+	
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://static.ws.126.net/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://static.ws.126.net/video/img14/zhuzhan/play.png"); }
+
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://static.ws.126.net/video/img14/zhuzhan/play.png");}
+	
+	
+		
+			
+				
+					
+					
+					
+					
+					
+					
+					
+						
+							
+							
+							
+							
+							
+						
+						
+					
+					 if (1/*/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)*/){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://videoimg.ws.126.net/cover/20211217/CdLYWbAag_cover.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/299489535519864121a1466ea31312a0b37407981d87f8a346cafc8795d46d219f9fa004efc7b370beef8b11ba140aea76494d41e70e54e5b961959e1b67ef1b8e799e7ab94ca051f758a28e85ffbaa6431d8143e84855508ce21ca08604d98adb1ad07a266598d022420c05b8441c324235eee3dc1bcb01.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+				
+				
+					
+						交锋!日本政客对访疆活动冷嘲热讽 被中国外交官怼得“灰头土脸”
+						（来源：海外网）
+					
+                                         				
+				
+					
+                                                					
+				
+			
+			
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(1/*(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)*/){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';NTES(".video-inner .video").attr("style", "background: #000;");}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+		
+		
+据了解，招募活动报名将于12月31日截止。接下来总领馆将等待疫情结束后尽快安排报名者访疆，安排他们去想去的地方、见想见的人，创造机会与当地人进行交流，亲眼见证新疆的和平稳定、繁荣发展。
+                    
+                

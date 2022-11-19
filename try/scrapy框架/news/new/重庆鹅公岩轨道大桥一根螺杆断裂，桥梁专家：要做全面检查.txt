@@ -1,0 +1,59 @@
+
+                    
+                    
+                        （原标题：重庆鹅公岩轨道大桥一根螺杆断裂，桥梁专家：要做全面检查）
+                    
+                    
+                    重庆市轨道交通（集团）有限公司（以下简称：重庆轨道集团）1月19日晚发布情况说明称，1月18日中午，地铁环线鹅公岩轨道大桥一根吊索叉耳螺杆出现异常，重庆轨道集团立即启动应急预案，环线奥体中心经谢家湾至海峡路区段暂停运营。同时，重庆轨道集团迅速组织相关专家及技术人员进行应急处置，技术人员将对桥梁吊索系统进行全面检测。重庆交通大学土木工程学院桥梁工程系主任周水兴看过现场多角度照片后向澎湃新闻表示，此次螺杆断裂应该和材料、受力有关，出现这种情况后要对其他螺杆做全面检查。他表示，可能只需更换螺杆，对整个桥梁的影响不大。重庆轨道曾多次发信息称排查隐患并致歉1月19日下午，鹅公岩轨道大桥吊索出问题的爆料消息在重庆多个微信群中传开。重庆轨道集团发布的情况说明显示，吊索故障是在1月18日中午发生。澎湃新闻查看官方微博发现，1月18日13时04分，重庆轨道集团发布第一条环线设施故障的消息。该消息称，“因地铁环线设备设施存在隐患，现工作人员正在积极排查中，造成奥体中心经谢家湾至海峡路区段运营受阻，请大家配合车站人员引导，有序等待或换乘其他交通工具。”1月18日13时41分，重庆轨道集团通过官微发布第二条运营突发消息称，“因地铁环线设备设施存在隐患，造成奥体中心经谢家湾至海峡路区段运营受阻，为最大限度维持运营，现开行奥体中心经冉家坝至海峡路区段交路运行，并启动奥体中心站5B出入口至海峡路站3A出入口区段公交接驳。”此后，重庆轨道集团在1月18日23时04分、1月19日10时22分又先后2次发布信息表示，设备设施隐患仍在排查整治中。而后，重庆轨道集团就“由于环线列车因故无法正常准点运营，造成乘客出行不便”发布致歉信。该集团在致歉信中表示，将进一步提高轨道交通系统设备的维护保养和应急抢险能力，尽量减少突发事件的发生，让轨道交通充分发挥“安全、快捷、准点、舒适”的优势。涉事轨道大桥2019年试运营澎湃新闻查询重庆本地媒体报道发现，2014年，鹅公岩轨道大桥开工建设，由中国铁建大桥工程局承建。2019年10月，该桥开始进行轨道环线的试运营。据《重庆晨报》报道，鹅公岩轨道大桥位于轨道交通环线海峡路站和谢家湾站之间，连接重庆市南岸区和九龙坡区，是轨道交通环线跨越长江的一座重要节点桥梁。大桥全长1650.5米，是五跨连续钢箱梁双塔双索面自锚式悬索桥，主跨长度达到600米。其跨度在世界轨道交通专用悬索大桥中位居前列，同时也是世界上主跨跨度最大的自锚式悬索桥。值得一提的是，鹅公岩轨道大桥位于鹅公岩大桥上游约45米处。两座大桥的外形高度基本一致，被誉为孪生姊妹桥。中国铁建大桥工程局集团有限公司官网在介绍鹅公岩轨道大桥时称，鹅公岩轨道大桥是重庆轨道交通环线二期的重点工程，主跨为600米的双塔双索面五跨连续钢箱梁自锚式悬索，跨径为自锚式悬索桥世界之“最”，比当时世界第二大跨度的自锚式悬索桥——爱沙尼亚穆胡岛桥长120米。该桥主塔高153米，相当于50层楼高。主要的施工重难点有主塔基础开挖施工、主塔施工、斜拉桥的钢箱梁安装施工、悬索桥的主缆安装、体系转换及全桥施工监控，建设标准高，风险性和挑战性大。在组织施工中采用"先斜拉、后悬索"成桥方法，尚属世界首例。桥梁专家：断裂与材料、受力有关重庆交通大学土木工程学院桥梁工程系主任周水兴查看现场多角度照片后表示，此次吊索叉耳螺杆断裂，跟其材料、受力有关。可能对整个桥梁的影响问题不大，只需换吊杆。
+	
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://static.ws.126.net/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://static.ws.126.net/video/img14/zhuzhan/play.png"); }
+
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://static.ws.126.net/video/img14/zhuzhan/play.png");}
+	
+	
+		
+			
+				
+					
+					
+					
+					
+					
+					
+					
+						
+							
+							
+							
+							
+							
+						
+						
+					
+					 if (1/*/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)*/){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://videoimg.ws.126.net/cover/20220120/XHPh6cBAs_cover.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/29948953551986414774420599b298866bfe2e14450c4048cbab011f95cd85b9635fc4b0c53c1034af9e246927fb0c6cfc2c2e67f71ce4b38c0a9e4d90dc44cab1d551b1203f5208b97f4dd590314182181b032aa571f23709c6b391fb4d15a06f10dcfafdc5feaf9b359f2a07fb6fa8958b6f6424d9a966.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+				
+				
+					
+						鹅公岩轨道大桥一吊索出现异常，重庆地铁环线部分区段暂停运营
+						（来源：青蜂侠Bee）
+					
+                                         				
+				
+					
+                                                					
+				
+			
+			
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(1/*(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)*/){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';NTES(".video-inner .video").attr("style", "background: #000;");}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+		
+		
+对于“其他螺杆会不会面临同样的断裂”，周水兴表示，大桥每年都要体检，日常也要巡检，一般出现这种问题后要对其他螺杆做全面检查。但周水兴也表示，因为车辆行驶引起振动，对吊索叉耳螺杆而言有些不利，可以采取减振措施。但具体要等检测结果出来才能找出原因。相关新闻重庆一轨道大桥吊杆断裂：两年半前投用 运营暂未恢复正常1月18日中午，因地铁环线鹅公岩轨道大桥一根吊索叉耳螺杆出现异常，重庆地铁环线奥体中心经谢家湾至海峡路区段暂停运营。20日，重庆轨道集团客服人员表示，目前运行何时能恢复正常暂时未知。19日，重庆市轨道交通（集团）有限公司官微发布消息称，1月18日中午，因地铁环线鹅公岩轨道大桥一根吊索叉耳螺杆出现异常，为确保市民出行安全，重庆轨道集团立即启动应急预案，环线奥体中心经谢家湾至海峡路区段暂停运营，开行奥体中心经冉家坝至海峡路区段交路。在此期间，公交集团开行海峡路经谢家湾至奥体中心、龙腾大道至杨家坪区间2条公交接驳专线（运行时间与环线保持一致），确保暂停运营区段乘客顺利出行。在此之前一天日下午1时许，该公司就发布了环线设施故障的消息，称“因地铁环线设备设施存在隐患，现工作人员正在积极排查中，造成奥体中心经谢家湾至海峡路区段运营受阻……”据悉，鹅公岩轨道大桥是一座轨道交通专用桥，全长1650.5米，是重庆轨道交通环线南环的控制性工程。大桥采用自锚式悬索桥方式设计，于2019年7月投入使用，至今已有两年半时间。据现场图片，出问题的吊索叉耳螺杆完全断裂。而在附近的环线地铁站出口，有公交转运乘客。据新华社消息，19日，举行了应急处置专家咨询会，专家初步分析，此次事件可能与吊索系统原始缺陷、制造和安装误差等因素有关，预计今后将通过设置临时吊杆、地铁限速运行等方式进行处置。极目新闻记者在轨道交通官微以及官网上了解到，仅19日，环线当天运送了约49万人次。20日上午，该条线路仍然处于“运营受阻”状态。
+                    
+                

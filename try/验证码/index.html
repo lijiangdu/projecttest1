@@ -1,0 +1,1133 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="utf-8" />
+	<meta name="renderer" content="webkit"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>综合服务平台 - 华南师范大学</title>
+	<!-- App favicon -->
+	<link rel="shortcut icon" href="https://statics.scnu.edu.cn/statics/images/favicon.ico">
+	<!-- App css -->
+	<link rel="stylesheet" type="text/css" id="bs-default-stylesheet"  href="../static/plugins/assets/css/bootstrap-creative.min.css"/>
+	<link rel="stylesheet" type="text/css" id="app-default-stylesheet" href="../static/plugins/assets/css/app-creative.min.css"/>
+	<link rel="stylesheet" type="text/css" id="bs-dark-stylesheet"     href="../static/plugins/assets/css/bootstrap-creative-dark.min.css"/>
+	<link rel="stylesheet" type="text/css" id="app-dark-stylesheet"    href="../static/plugins/assets/css/app-creative-dark.min.css"/>
+	<!-- customer css -->
+	<link rel="stylesheet" type="text/css" href="../static/fullscreen/css/customer.css?ver=20211129" />
+	<!-- icons -->
+	<link rel="stylesheet" type="text/css" href="../static/plugins/assets/css/icons.min.css"/>
+	<style>
+	.my-item-list .spinner-border{display: block;width: 1.2rem;height: 1.2rem;}
+	</style>
+</head>
+<!--[if lte IE 9]>
+<body>
+<style>
+body { background: #fff url(../static/fullscreen/images/bgfix.png) no-repeat top center; }
+.box { width: 960px; margin: 80px auto 0; box-shadow: 0px 0px 40px 10px #a6a6a6; }
+.box-content { width: 100%; padding: 20px; background: #fff; border-top: 4px solid #0D88E8; }
+.logo { width: 374px; display: block; margin-bottom: 10px; }
+.text { width: 100%; border-top: 1px solid #eee; padding: 35px 0; font-family: "Open Sans","Microsoft Yahei"; color: #555; font-size: 16px; }
+	.text .title { text-align: center; }
+	.text h1 { display: inline; text-align: center; font-size: 24px; line-height: 24px; padding: 0 0 10px; font-weight: 700; border-bottom: 3px solid #0D88E8; }
+.content { text-indent: 2em; margin: 45px 0; line-height: 32px; }
+	.content a { color: #3283f6; }
+.notice { background: #f7f7f7; width: 100%; height: 75px; text-align: center; }
+	.login { margin-top: 15px; width: 150px; height: 45px; line-height: 45px; display: inline-block; padding: 0 18px; text-align: center; border-radius: 2px; box-shadow: 0 -1px 0 rgba(0,0,0,.1) inset; background: #8ec63f; color: #FFF; }
+	.login:hover { text-decoration: none; color: #fff; }
+</style>
+<div class="box">
+	<div class="box-content">
+		<img class="logo" src="../static/fullscreen/images/ielogo.png" alt="">
+		<div class="text">
+			<div class="title"><h1>浏览器版本太低</h1></div>
+			<div class="content">
+				<p>您目前所使用的浏览器版本太低，您将不能正常浏览和使用本系统，如果您需要继续浏览，请点击下方绿色按钮返回旧版本。</p>
+				<p><strong>继续使用旧版本浏览器将会给您带来一系列未知的安全隐患，为保障信息的安全和展现，建议您升级最新版浏览器。</strong></p>
+				<p><a href="https://c2rsetup.officeapps.live.com/c2r/downloadEdge.aspx?platform=Default&source=EdgeStablePage&Channel=Stable&language=zh-CN&consent=0" target="_blank">Microsoft Edge 浏览器（点击下载）</a> / <a href="http://www.google.cn/chrome/browser/desktop/index.html">Google Chrome 最新版（点击下载）</a></p>
+				<p style="margin-bottom: 15px">如果您在使用双核浏览器（360安全浏览器、搜狗浏览器、QQ浏览器），请根据图示在<strong>浏览器地址栏右侧</strong>切换到高速 / 极速 / 神速核心。</p>
+				<p style="text-align: center">
+					<img src="../static/fullscreen/images/360_chrome.png">
+					<img src="../static/fullscreen/images/sougou_chrome.png">
+					<img src="../static/fullscreen/images/qq_chrome.png">
+				</p>
+			</div>
+		</div>
+	</div>
+	<div class="notice">
+		<a class="login" href="../user/view_version_set.html?view_version=0">返回旧版本</a>
+	</div>
+</div>
+<div style="display:none">
+<![endif]-->
+<!--[if !(IE)]><!-->
+<body class="loading" data-layout-mode="horizontal" data-layout='{"mode": "light", "width": "fluid", "menuPosition": "fixed", "topbar": {"color": "dark"}}'>
+<!--<![endif]-->
+
+<!-- Begin page -->
+<div id="wrapper">	
+<!-- Topbar Start -->
+	<div class="navbar-custom">
+		<div class="container-fluid">
+			<ul class="list-unstyled topnav-menu float-right mb-0">
+				<li class="nav-list dropdown d-none d-lg-inline-block">
+					<a class="nav-link dropdown-toggle arrow-none waves-effect waves-light" title="回到旧版"
+						href="../user/view_version_set.html?view_version=0">
+						<i class="fas fa-exchange-alt"></i>
+					</a>
+				</li>
+				<li class="nav-list dropdown d-none d-lg-inline-block">
+					<a class="nav-link dropdown-toggle arrow-none waves-effect waves-light" data-toggle="fullscreen" href="#">
+						<i class="fe-maximize noti-icon"></i>
+					</a>
+				</li>
+				<li class="nav-list dropdown notification-list topbar-dropdown">
+					<a href="javascript:void(0);" class="nav-link nav-user right-bar-toggle waves-effect waves-light" role="button" aria-haspopup="false" aria-expanded="false">
+						<img id="top_bar_usericon" src="../file/images/userPhoto/default.jpg" alt="user-image" class="rounded-circle">
+						<span id="top_bar_truename" class="pro-user-name ml-1">loading…</span>
+					</a>
+				</li>
+			</ul>
+			<!-- LOGO -->
+			<div class="logo-box">
+				<a href="../user/index.html" title="华南师范大学综合服务平台" class="logo logo-dark text-center">
+					<span class="logo-sm"><img src="../static/fullscreen/images/title-logo-small.png" alt="" height="54"></span>
+					<span class="logo-lg"><img src="../static/fullscreen/images/title-logo-full.png" alt="" height="54"></span>
+				</a>
+				<a href="../user/index.html" title="华南师范大学综合服务平台" class="logo logo-light text-center">
+					<span class="logo-sm"><img src="../static/fullscreen/images/title-logo-small.png" alt="" height="54"></span>
+					<span class="logo-lg"><img src="../static/fullscreen/images/title-logo-full.png" alt="" height="54"></span>
+				</a>
+			</div>
+
+			<ul class="list-unstyled topnav-menu topnav-menu-left m-0">
+				<li>
+					<button class="button-menu-mobile waves-effect waves-light">
+						<i class="fe-menu"></i>
+					</button>
+				</li>
+				<li>
+					<!-- Mobile menu toggle (Horizontal Layout)-->
+					<a class="navbar-toggle nav-link" data-toggle="collapse" data-target="#topnav-menu-content">
+						<div class="lines">
+							<span></span>
+							<span></span>
+							<span></span>
+						</div>
+					</a>
+					<!-- End mobile menu toggle-->
+				</li>   
+			</ul>
+			<div class="navbar-block navbar-expand-lg">
+				<ul id="topnav-menu-content"
+					 class="collapse navbar-collapse nav-list-menu list-unstyled topnav-menu topnav-menu-left m-0">
+					<li class="nav-list">
+						<a id="menu_index" class="nav-link waves-effect waves-light" href="../user/index.html" role="button">
+							<p class="nav-text">首页</p>
+							<p class="nav-en">Home</p>
+						</a>
+					</li>
+										<li class="nav-list">
+						<a id="menu_app" class="nav-link waves-effect waves-light" href="../user/applist.html" role="button">
+							<p class="nav-text">校园应用</p>
+							<p class="nav-en">Application</p>
+						</a>
+					</li>
+					<li class="nav-list">
+						<a class="nav-link waves-effect waves-light" href="http://module.scnu.edu.cn/sitemap" target="_blank" role="button">
+							<p class="nav-text">网站导航</p>
+							<p class="nav-en">Sitemap</p>
+						</a>
+					</li>
+					<li id="menu_calendar" class="nav-list">
+						<a class="nav-link waves-effect waves-light" href="../mysite/calendar.html" role="button">
+							<p class="nav-text">我的日历</p>
+							<p class="nav-en">Schedule</p>
+						</a>
+					</li>
+				</ul>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+	</div>
+	<!-- end Topbar -->	<!-- ============================================================== -->
+	<!-- Start Page Content here -->
+	<!-- ============================================================== -->
+
+	<div class="content-page">
+		<div class="content">
+
+			<!-- Start Content-->
+			<div class="container-fluid index-page">
+				<div class="row">
+					<!-- 1366低分辨率滚动图 -->
+					<div class="col-md-12 col-xl-4 d-none d-md-block d-xl-none">
+						<div class="card">
+							<div id="carouselExampleControls1366" class="carousel slide" data-ride="carousel">
+								<div id="banner_row_list" class="carousel-inner" role="listbox">
+									<div class="carousel-item active">
+										<div class="d-block carousel-img-1366" style="background: url(../static/fullscreen/images/1366banner.png) no-repeat center center; background-size: cover"></div>
+									</div>
+									<div class="carousel-item">
+										<div class="d-block carousel-img-1366" style="background: url(../static/fullscreen/images/1366banner.png) no-repeat center center; background-size: cover"></div>
+									</div>
+									<div class="carousel-item">
+										<div class="d-block carousel-img-1366" style="background: url(../static/fullscreen/images/1366banner.png) no-repeat center center; background-size: cover"></div>
+									</div>
+								</div>
+								<a class="carousel-control-prev" href="#carouselExampleControls1366" role="button" data-slide="prev">
+									<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+									<span class="sr-only">Previous</span>
+								</a>
+								<a class="carousel-control-next" href="#carouselExampleControls1366" role="button" data-slide="next">
+									<span class="carousel-control-next-icon" aria-hidden="true"></span>
+									<span class="sr-only">Next</span>
+								</a>
+							</div>
+						</div>
+					</div>
+
+					<!-- 1366以上分辨率滚动图 -->
+					<div class="col-md-12 col-xl-4 focus-left d-none d-xl-block">
+						<div class="card">
+							<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+								<ol id="banner_block_div" class="carousel-indicators">
+									<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+									<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+									<li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+								</ol>
+								<div id="banner_block_list" class="carousel-inner" role="listbox">
+									<div class="carousel-item active">
+										<div class="d-block carousel-img" style="background: url(../static/fullscreen/images/banner_750_750.jpg) no-repeat center center; background-size: cover"></div>
+									</div>
+								</div>
+								<a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+									<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+									<span class="sr-only">Previous</span>
+								</a>
+								<a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+									<span class="carousel-control-next-icon" aria-hidden="true"></span>
+									<span class="sr-only">Next</span>
+								</a>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-12 col-xl-8 focus-right">
+						<div class="card card-horizontal card-ehallitem p-data">
+							<div class="card-body">
+								<h4 class="header-title">办事大厅</h4>
+								<div class="my-item-list">
+									<ul>
+										<li class="item-data e-submit">
+											<a href="https://ehall.scnu.edu.cn/taskcenter/workflow/todo" target="_blank" class="item-col">
+												<i></i>
+												<div class="float-left">
+													<div id="ehall_submit_load" class="spinner-border text-danger m-2" role="status"></div>
+													<strong id="ehall_submit" class="d-none">加载中</strong>
+													<span>待提交</span>
+												</div>
+											</a>
+										</li>
+										<li class="item-data e-handle">
+											<a href="https://ehall.scnu.edu.cn/taskcenter/workflow/toaudit" target="_blank" class="item-col">
+												<i></i>
+												<div class="float-left">
+													<div id="ehall_audit_load" class="spinner-border text-danger m-2" role="status"></div>
+													<strong id="ehall_audit" class="d-none">加载中</strong>
+													<span>待办理</span>
+												</div>
+											</a>
+										</li>
+										<li class="item-data e-ing">
+											<a href="https://ehall.scnu.edu.cn/taskcenter/workflow/doing" target="_blank" class="item-col">
+												<i></i>
+												<div class="float-left">
+													<div id="ehall_doing_load" class="spinner-border text-danger m-2" role="status"></div>
+													<strong id="ehall_doing" class="d-none">加载中</strong>
+													<span>进行中</span>
+												</div>
+											</a>
+										</li>
+										<li class="item-data e-done">
+											<a href="https://ehall.scnu.edu.cn/taskcenter/workflow/done" target="_blank" class="item-col">
+												<i></i>
+												<div class="float-left">
+													<div id="ehall_done_load" class="spinner-border text-danger m-2" role="status"></div>
+													<strong id="ehall_done" class="d-none">加载中</strong>
+													<span>已完成</span>
+												</div>
+											</a>
+										</li>
+										<li class="item-data e-cc">
+											<a href="https://ehall.scnu.edu.cn/taskcenter/workflow/flow_cc" target="_blank" class="item-col">
+												<i></i>
+												<div class="float-left">
+													<div id="ehall_cc_load" class="spinner-border text-danger m-2" role="status"></div>
+													<strong id="ehall_cc" class="d-none">加载中</strong>
+													<span>昨日抄送</span>
+												</div>
+											</a>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+
+						<!-- 手机页面邮件、消息、代办节点 -->
+						<div class="row">
+							<div class="col-sm-12 d-block d-md-none">
+								<div class="card card-horizontal card-mail">
+									<div class="card-body">
+										<h4 class="header-title">我的消息</h4>
+										<div class="my-item-list">
+											<ul>
+												<li class="item-data item-alone -mail">
+													<a href="../openapi/onekeyapp.html?app_id=11&key_name=forward&key_data=../view/fastlogin.html" target="_blank" class="item-col">
+														<i></i>
+														<div class="float-left">
+															<strong class="mail_new">loading…</strong>
+															<span>未读邮件</span>
+														</div>
+													</a>
+												</li>
+												<li class="item-data item-alone m-message">
+													<a href="../mysite/message.html" target="_blank" class="item-col">
+														<i></i>
+														<div class="float-left">
+															<strong class="msg_new">loading…</strong>
+															<span>新消息</span>
+														</div>
+													</a>
+												</li>
+												<li class="item-data item-alone m-oa d-none ">
+													<a href="../openapi/onekeyapp.html?app_id=32" target="_blank" class="item-col">
+														<i></i>
+														<div class="float-left">
+															<strong class="oa_new">loading…</strong>
+															<span>待办事项</span>
+														</div>
+													</a>
+												</li>
+												<li class="item-data item-alone m-schedule">
+													<a href="../mysite/calendar.html" target="_blank" class="item-col">
+														<i></i>
+														<div class="float-left">
+															<strong class="calendar_today">loading…</strong>
+															<span>今日日程</span>
+														</div>
+													</a>
+												</li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+							
+							<div class="d-none">
+							<!-- 电脑端邮件、消息、代办节点 -->
+							<div class="col-sm-3 col-lg-3 d-none d-md-block">
+								<div class="card card-quad card-mail">
+									<div class="card-body">
+										<h4 class="header-title">M邮箱</h4>
+										<div class="my-item-list">
+											<a href="../openapi/onekeyapp.html?app_id=11&key_name=forward&key_data=../view/fastlogin.html" target="_blank" class="item-data item-alone m-mail">
+												<div class="float-left">
+													<strong class="mail_new">loading…</strong>
+													<span>未读邮件</span>
+												</div>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-sm-3 col-lg-3 d-none d-md-block">
+								<div class="card card-quad card-mymessage">
+									<div class="card-body">
+										<h4 class="header-title">我的消息</h4>
+										<div class="my-item-list">
+											<a href="../mysite/message.html" target="_blank" class="item-data item-alone m-message">
+												<div class="float-left">
+													<strong class="msg_new">loading…</strong>
+													<span>新消息</span>
+												</div>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-sm-3 col-lg-3 d-none d-md-block">
+								<div class="card card-quad card-myoa">
+									<div class="card-body">
+										<h4 class="header-title">我的待办</h4>
+										<div class="my-item-list">
+											<a href="../openapi/onekeyapp.html?app_id=32" target="_blank" class="item-data item-alone m-mail">
+												<div class="float-left">
+													<strong class="oa_new">loading…</strong>
+													<span>待办事项</span>
+												</div>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-sm-3 col-lg-3 d-none d-md-block">
+								<div class="card card-quad card-schedule">
+									<div class="card-body">
+										<h4 class="header-title">日历日程</h4>
+										<div class="my-item-list">
+											<a href="../mysite/calendar.html" target="_blank" class="item-data item-alone m-schedule">
+												<div class="float-left">													
+													<strong class="calendar_today ">loading…</strong>
+													<span>今日日程</span>
+												</div>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+							</div>
+							<!-- 电脑端邮件、消息、代办节点 -->
+							<div class="col-sm-4 col-lg-4 d-none d-md-block">
+								<div class="card card-horizontal card-mail">
+									<div class="card-body">
+										<h4 class="header-title">M　邮箱</h4>
+										<div class="my-item-list">
+											<a href="../openapi/onekeyapp.html?app_id=11&key_name=forward&key_data=../view/fastlogin.html" target="_blank" class="item-data item-alone m-mail">
+												<i></i>
+												<div class="float-left">
+													<strong class="mail_new">loading…</strong>
+													<span>未读邮件</span>
+												</div>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-sm-4 col-lg-4 d-none d-md-block">
+								<div class="card card-horizontal card-mymessage">
+									<div class="card-body">
+										<h4 class="header-title">我的消息</h4>
+										<div class="my-item-list">
+											<a href="../mysite/message.html" target="_blank" class="item-data item-alone m-message">
+												<i></i>
+												<div class="float-left">
+													<strong class="msg_new">loading…</strong>
+													<span>新消息</span>
+												</div>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- 
+							<div class="col-sm-4 col-lg-4 d-none d-md-block">
+								<div class="card card-horizontal card-mail">
+									<div class="card-body">
+										<h4 class="header-title">我的待办</h4>
+										<div class="my-item-list">
+											<a href="../openapi/onekeyapp.html?app_id=32" target="_blank" class="item-data item-alone m-mail">
+												<i></i>
+												<div class="float-left">
+													<strong class="oa_new">loading…</strong>
+													<span>待办事项</span>
+												</div>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+							 -->
+							<div class="col-sm-4 col-lg-4 d-none d-md-block">
+								<div class="card card-horizontal card-schedule">
+									<div class="card-body">
+										<h4 class="header-title">日历日程</h4>
+										<div class="my-item-list">
+											<a href="../mysite/calendar.html" target="_blank" class="item-data item-alone m-schedule">
+												<i></i>
+												<div class="float-left">													
+													<strong class="calendar_today ">loading…</strong>
+													<span>今日日程</span>
+												</div>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="row">
+					<div id="article_xxgw" class="col-md-6 col-xl-4">
+						<div class="card card-article">
+							<div class="card-body" style="min-height:288px;">
+								<h4 class="header-title mb-3">学校公文<a class="more float-right" href="../article/articlelist.html?subject=xxgw">更多</a></h4>
+								<div id="article_xxgw_load" class="loading d-flex justify-content-center align-items-center " style="width: 100%;min-height: 192px;">
+									<div class="spinner-border text-danger m-2" role="status"></div>
+									<h5>loading…</h5>
+								</div>
+								<ul  id="article_xxgw_list" class="article-list">
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div id="article_xntz" class="col-md-6 col-xl-4">
+						<div class="card card-notice">
+							<div class="card-body" style="min-height:288px;">
+								<h4 class="header-title mb-3">学校通知<a class="more float-right" href="../article/articlelist.html">更多</a></h4>
+								<div id="article_xntz_load" class="loading d-flex justify-content-center align-items-center " style="width: 100%;min-height: 192px;">
+									<div class="spinner-border text-danger m-2" role="status"></div>
+									<h5>loading…</h5>
+								</div>
+								<ul id="article_xntz_list" class="article-list">
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div id="article_bctz" class="col-md-6 col-xl-4">
+						<div class="card card-dept">
+							<div class="card-body" style="min-height:288px;">
+								<h4 class="header-title mb-3">部处通知<a class="more float-right" href="../article/articlelist.html?subject=bctz">更多</a></h4>
+								<div id="article_bctz_load" class="loading d-flex justify-content-center align-items-center " style="width: 100%;min-height: 192px;">
+									<div class="spinner-border text-danger m-2" role="status"></div>
+									<h5>loading…</h5>
+								</div>
+								<ul id="article_bctz_list" class="article-list">
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div id="article_xxgg" class="col-md-6 col-xl-4">
+						<div class="card card-announce">
+							<div class="card-body" style="min-height:288px;">
+								<h4 class="header-title mb-3">学校公告<a class="more float-right" href="../article/articlelist.html?subject=xxgg">更多</a></h4>
+								<div id="article_xxgg_load" class="loading d-flex justify-content-center align-items-center " style="width: 100%;min-height: 192px;">
+									<div class="spinner-border text-danger m-2" role="status"></div>
+									<h5>loading…</h5>
+								</div>
+								<ul id="article_xxgg_list" class="article-list">
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div id="ehall_table" class="col-md-12 col-xl-8">
+						<div class="card card-ehalltype">
+							<div class="card-body">
+								<h4 class="header-title mb-3">
+									网上办事大厅
+									<a class="more float-right" href="../openapi/onekeyapp.html?app_id=103">更多</a>
+									<div class="d-none d-md-block ehall-search">
+										<input id="ehall_keyword" type="text" 
+											onkeydown="if(event.keyCode==13){getEhallList();}" placeholder="请输入关键词进行搜索">
+										<input id="ehall_type" type="hidden">
+										<input type="button" onclick="getEhallList()" value="">
+									</div>
+								</h4>
+								<ul id="ehall_type_list" class="nav nav-pills navtab-bg nav-justified ehall-type-lists"></ul>
+								<div class="tab-content ehall-type-content">
+									<div class="type-title float-left"><span class="nav-link"><span class="d-ws">可办</span>事项：</span></div>
+									<div class="tab-pane active">
+										<div id="ehall_load" class="loading d-flex justify-content-center align-items-center " style="width: auto;min-height: 117px;">
+											<div class="spinner-border text-danger m-2" role="status"></div>
+											<h5>loading…</h5>
+										</div>
+										<ul id="ehall_list" class="row type-name d-none">
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-md-6 col-xl-4 col-apps">
+						<div class="card card-apps card-myapps">
+							<div class="card-body">
+								<h4 class="header-title mb-3">我的应用<a class="more float-right" href="../user/applist.html">更多</a></h4>
+								<div class="app-lists">
+									<div id="my_app_load" class="loading d-flex justify-content-center align-items-center " style="width: 100%;min-height: 308px;">
+										<div class="spinner-border text-danger m-2" role="status"></div>
+										<h5>loading…</h5>
+									</div>
+									<ul id="my_app_list" class="d-none">										
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6 col-xl-8 col-apps">
+						<div class="card card-apps card-hotapps">
+							<div class="card-body">
+								<h4 class="header-title mb-3">热门应用<a class="more float-right" href="../user/applist.html">更多</a></h4>
+								<div class="app-lists">
+									<div id="all_app_load" class="loading d-flex justify-content-center align-items-center " style="width: 100%;min-height: 308px;">
+										<div class="spinner-border text-danger m-2" role="status"></div>
+										<h5>loading…</h5>
+									</div>
+									<ul id="all_app_list" class="d-none">
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div> <!-- container -->
+			
+			<!-- tools tips -->
+		</div> <!-- content -->
+
+
+		
+<!-- Footer Start -->
+		<footer class="footer main-footer">
+			<div class="footer-info">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-lg-5 col-md-5 col-sm-4 col-xs-12">
+							<p><img src="../static/fullscreen/images/title-logo-full.png" alt=""></p>
+							<p class="footer-info-text">华南师范大学综合服务平台，是华南师范大学信息化基础平台之一。于2012年底开始筹划，经过一年多的开发测试，于2014年正式上线运营。综合服务平台致力打造一个校内一站式服务平台，为全校师生提供便捷的信息化服务。</p>
+						</div>
+						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+							<div class="footer-info-title">相关链接</div>
+							<ul class="footer-info-links">
+								<li><a href="https://www.scnu.edu.cn/" target="_blank">华南师范大学</a></li>
+								<li><a href="../openapi/onekeyapp.html?app_id=103" target="_blank">网上办事大厅</a></li>
+								<li><a href="../openapi/onekeyapp.html?app_id=74" target="_blank">会议服务系统</a></li>
+								<li><a href="../openapi/onekeyapp.html?app_id=92" target="_blank">组织架构平台</a></li>
+								<li><a href="../openapi/onekeyapp.html?app_id=62" target="_blank">正版软件平台</a></li>
+								<li><a href="https://mail.scnu.edu.cn/" target="_blank">华师企业邮箱</a></li>
+								<li><a href="http://faculty.scnu.edu.cn/" target="_blank">教师个人主页</a></li>
+								<li><a href="../openapi/onekeyapp.html?app_id=61" target="_blank">砺儒云课堂</a></li>
+							</ul>
+						</div>
+						<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+							<div class="footer-info-title">新媒体链接</div>
+							<div class="footer-info-icons">
+								<ul>
+									<li class="wecom">
+										<a href="javascript:showMedia('wechatqy');">
+											<i></i>
+											<p>企业号</p>
+										</a>
+									</li>
+									<li class="wechat">
+										<a href="javascript:showMedia('wechatmp');">
+											<i></i>
+											<p>公众号</p>
+										</a>
+									</li>
+									<!-- 
+									<li class="video">
+										<a href="javascript:;">
+											<i></i>
+											<p>视频号</p>
+										</a>
+									</li>
+									 -->
+									<li class="weibo">
+										<a href="javascript:showMedia('weibo');">
+											<i></i>
+											<p>微博</p>
+										</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="copyright">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-md-12 text-center">
+							华南师范大学 版权所有 粤ICP备05008875号 | Copyright © 2021 South China Normal University. All Rights Reserved
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<!-- end Footer -->
+		<!-- media show start -->
+		<div class="modal fade" id="media-model" tabindex="-1" role="dialog" aria-hidden="true">
+			<div class="modal-dialog modal-md modal-dialog-centered">
+				<div class="modal-content">
+					<img id="media-wechatqy" class="new-media" src="../static/fullscreen/images/scnuqy.jpg" style="width:100%;display:none;"/>
+					<img id="media-wechatmp" class="new-media" src="../static/fullscreen/images/scnump.jpg" style="width:100%;display:none;"/>
+					<iframe id="media-weibo" class="new-media" style="width:100%;height:400px;display:none;"
+						src="https://widget.weibo.com/weiboshow/index.php?width=0&height=550&ptype=1&speed=0&skin=1&isTitle=0&noborder=1&isWeibo=1&isFans=0&uid=5338220864&verifier=0f9bddb0&dpc=1">
+					</iframe>
+				</div>
+			</div>
+		</div>
+		<!-- media show start -->
+		<script>
+		function showMedia(mediaType){
+			if(mediaType!=undefined){
+				$(".new-media").hide();
+				$("#media-"+mediaType).show();
+				$("#media-model").modal();
+			}
+		}
+		</script>
+		
+	</div>
+
+	<!-- ============================================================== -->
+	<!-- End Page content -->
+	<!-- ============================================================== -->
+
+
+</div>
+<!-- END wrapper -->
+
+
+<!-- Right Sidebar -->
+<div class="right-bar">
+	<div data-simplebar class="h-100">
+
+		<!-- Nav tabs -->
+		<ul class="nav nav-tabs nav-bordered nav-justified" role="tablist">
+
+			<li class="nav-item">
+				<a class="nav-link active" data-toggle="tab" href="#tasks-tab" role="tab">
+					用户信息 <span>User Info</span>
+				</a>
+			</li>
+		</ul>
+
+		<!-- Tab panes -->
+		<div class="tab-content">
+			<div class="tab-pane active" id="tasks-tab" role="tabpanel">
+				<h6 class="user-title font-weight-medium p-3 m-0 text-uppercase">我的账号</h6>
+				<div class="px-2 fix user-content">
+					<div class="user-info p-2 fix">
+						<img id="right_bar_usericon" src="../file/images/userPhoto/default.jpg" class ="float-left img-fluid avatar-lg rounded mr-2" alt="">
+						<div class="float-left">
+							<p id="right_bar_truename" class="user-info-name">loading…</p>
+							<p id="right_bar_username" class="user-info-cardnumber">一卡通：loading…</p>
+						</div>
+					</div>
+					<div class="user-detail pt-2 px-2">
+						<p><i class="fas fa-building"></i> 单位：<span id="right_bar_deptname">loading…</span></p>
+						<p><i class="fas fa-user"></i> 类型：<span id="right_bar_kindname">loading…</span></p>
+						<p><i class="fas fa-mobile-alt"></i> 手机：<span id="right_bar_mobile">loading…</span></p>
+						<p><i class="fas fa-mail-bulk"></i> 邮箱：<span id="right_bar_email">loading…</span></p>
+					</div>
+					<div class="user-option p-2">
+						<a href="../user/detail.html" class="btn btn-danger waves-effect waves-light">
+							<p>账号管理</p>
+							<p>Member Setting</p>
+						</a>
+						<a href="../user/logout.html" class="btn btn-outline-danger waves-effect waves-light">
+							<p>退出登录</p>
+							<p>Log Out</p>
+						</a>
+					</div>
+
+				</div>
+
+				<h6 class="user-title font-weight-medium px-3 pb-2 mb-0 mt-4 text-uppercase">校园网账户</h6>
+				<div class="px-2 fix user-content">
+					<div id="right_bar_network" class="user-scnunet p-2">
+						<p>
+							余额：
+							<span class="remainder">加载中…</span>
+							<a class="recharge btn btn-outline-danger btn-rounded waves-effect waves-light float-right" href="">¥ 充值</a>
+						</p>
+						<p>启用状态：<span>加载中…</span></p>
+					</div>
+				</div>
+
+			</div>
+			<a href="../user/view_version_set.html?view_version=0" class="switch-ver" style="background: #0f7ebf;color: #ffffff;"><i class="fas fa-exchange-alt"></i> 回到旧版</a>
+		</div>
+	</div> <!-- end slimscroll-menu-->
+</div>
+<!-- /Right-bar -->
+<!-- Right bar overlay-->
+<div class="rightbar-overlay"></div>
+<!--[if lte IE 9]>
+</div>
+<![endif]-->
+<!--[if !(IE)]><!-->
+	<!-- Vendor js -->
+	<script src="../static/plugins/assets/js/vendor.min.js"></script>
+	<!-- App js -->
+	<script src="../static/plugins/assets/js/app.min.js"></script>
+	<!-- My script -->
+	<script src="../static/fullscreen/js/script.js"></script>
+	<script>
+	//用户基本信息
+	$(
+		function(){
+			$.post("../user/info.html",{},function(data){
+				var code=data.msgcode;
+				if(code==0){
+					$("#top_bar_truename,#right_bar_truename").text(data.name);
+					$("#right_bar_username").text(data.account);
+					$("#right_bar_deptname").text(data.dept);
+					$("#right_bar_kindname").text(data.kindName);
+					$("#right_bar_mobile").text(data.phone);
+					$("#right_bar_email").text(data.account+"@m.scnu.edu.cn");
+					$("#top_bar_usericon,#right_bar_usericon").attr("src","../resource/photo.jpg?ver="+data.account);
+					if($(".msg_new")!=undefined){
+						$(".msg_new").text(data.msgCount);
+					}
+					//if($("#detail-photo11").text()!=""){
+						$("#detail-photo").attr("src","../resource/photo.jpg?ver="+data.account);
+						$("#detail-username").text(data.account);
+						$("#detail-truename").text(data.name);
+						$("#detail-deptname").text(data.dept);
+						$("#detail-mobile").text(data.phone);
+						$("#detail-email").text(data.account+"@m.scnu.edu.cn");
+						$("#detail-o365").text(data.account+"@msad.scnu.edu.cn");
+					//}
+				}
+			},"json");
+			$.post("../user/getusernetdata.html",{},function(data){
+				if(data.msgcode==0){
+					var list=data.list;
+					var html="";
+					for(var i=0;i<list.length;i++){
+						var temp=list[i];
+						if(temp.name=='账户余额'){
+							html+="<p>"+temp.name+"：<span class='remainder'>￥"+temp.value+".00</span><a href='../openapi/onekeyapp.html?app_id=31&key_name=forward&key_data=..%2flog%2forderlog.html'class='recharge btn btn-outline-danger btn-rounded waves-effect waves-light float-right' href=''>¥ 充值</a></p>";
+						}else{
+							html+="<p>"+temp.name+"：<span>"+temp.value+"</span></p>";
+						}
+					}
+					$("#right_bar_network").html(html);
+				}
+			},"json");
+			$(".tools").click(function(){
+				var i = $(this).attr("id");
+				if(i == "t-hide") {
+					console.log(i);
+					$(this).attr("id","t-show");
+					/* $(this).css("right","150px"); */
+					$(this).addClass("open");
+					$(".tools-menu").show();
+				} else if(i == "t-show") {
+					console.log(i);
+					$(this).attr("id","t-hide");
+					/* $(this).css("right","0"); */
+					$(this).removeClass("open");
+					$(".tools-menu").hide();
+				}
+			});
+		}
+	);
+
+		$(function() {
+			var url = window.location.href;
+			var length = url.indexOf("?");
+			var pageNameIndex = url.lastIndexOf("/") + 1;
+			if (length == -1) {
+				length = url.length;
+			}
+			url = url.substring(0, length);
+			var pageName = url.substring(pageNameIndex, length);
+			if (url.endsWith("upphoto.html") || url.endsWith("password.html")
+					|| url.endsWith("bind.html")
+					|| url.endsWith("upecardphoto.html")
+					|| url.endsWith("loginlog.html")
+					|| url.endsWith("actionlog.html")
+					|| url.endsWith("otherlogin.html")
+					|| url.endsWith("detail.html")) {
+				if (url.endsWith("detail.html")) {
+					$("#detail").addClass("current");
+				} else if (url.endsWith("upphoto.html")) {
+					$("#upphoto").addClass("current");
+				} else if (url.endsWith("password.html")) {
+					$("#password").addClass("current");
+				} else if (url.endsWith("bind.html")
+						|| url.endsWith("unbind.html")) {
+					$("#bind").addClass("current");
+				} else if (url.endsWith("upecardphoto.html")) {
+					$("#upecardphoto").addClass("current");
+				} else if (url.endsWith("loginlog.html")) {
+					$("#loginlog").addClass("current");
+				} else if (url.endsWith("actionlog.html")) {
+					$("#actionlog").addClass("current");
+				} else if (url.endsWith("otherlogin.html")) {
+					console.log("otherlogin.html");
+					$("#authbind").addClass("current");
+				}
+			} else if (url.endsWith("index.html")) {
+				$("#menu_index").addClass("current");
+			} else if (url.endsWith("articlelist.html")
+					|| pageName.startsWith("a_") || pageName.startsWith("w_")) {
+				$("#menu_article").addClass("current");
+			} else if (url.endsWith("applist.html")) {
+				$("#menu_app").addClass("current");
+			} else if (url.endsWith("getCalendarData.html")
+					|| url.endsWith("getCalendarDataDetail.html")) {
+				$("#menu_calendar").addClass("current");
+			}
+		});
+		
+	</script><script>
+	$(function(){
+		getBanner();
+		getEhallTips();
+		getIndexArticleList();
+		getExmail();
+		getCalendar();
+		getEhallList();
+		getMyApp();
+		getOauthApp();
+		//getToRead();
+	});
+	/*获取宣传横幅*/
+	function getBanner(){
+		$.post("../resource/index_banner.html",{},function(data){
+			if(data.length>0){
+				var rowListHtml="";
+				var blockNum=0;
+				var blockDivHtml="";
+				var blockListHtml="";
+				for(var i=0;i<data.length;i++){
+					var temp=data[i];
+					var type=temp.type;
+					var hrefHtml=" href='javascript:;'";
+					if(temp.link!=''){
+						hrefHtml=" href='"+temp.link+"'  target='_blank'";
+					}
+					if(type==0){
+						if(rowListHtml==""){
+							rowListHtml+="<div class='carousel-item active'>"
+										+"<a"+hrefHtml+" class='d-block carousel-img-1366' style='background: url(../file/images/banner/"+temp.path+") no-repeat center center; background-size: cover'></a>"
+										+"</div>";
+						}else{
+							rowListHtml+="<div class='carousel-item'>"
+									+"<a"+hrefHtml+" class='d-block carousel-img-1366' style='background: url(../file/images/banner/"+temp.path+") no-repeat center center; background-size: cover'></a>"
+									+"</div>";
+						}
+					}else if(type==1){
+						if(blockNum==0){
+							blockDivHtml+="<li data-target='#carouselExampleIndicators' data-slide-to='"+blockNum+"' class='active'></li>";
+							blockListHtml+="<div class='carousel-item active'>"
+								 +"<a"+hrefHtml+" class='d-block carousel-img' style='background: url(../file/images/banner/"+temp.path+") no-repeat center center; background-size: cover'></a>"
+								 +"</div>";
+						}else{
+							blockDivHtml+="<li data-target='#carouselExampleIndicators' data-slide-to='"+blockNum+"'></li>";
+							blockListHtml+="<div class='carousel-item'>"
+								 +"<a"+hrefHtml+" class='d-block carousel-img' style='background: url(../file/images/banner/"+temp.path+") no-repeat center center; background-size: cover'></a>"
+								 +"</div>";
+						}
+						blockNum++;
+						
+					}
+				}
+				if(rowListHtml!=""){
+					$("#banner_row_list").html(rowListHtml);
+				}
+				if(blockListHtml!=""){
+					$("#banner_block_div").html(blockDivHtml);
+					$("#banner_block_list").html(blockListHtml);
+				}
+				
+			}/* else{
+				$("#bannerList").hide();
+			} */
+		},'json');
+	}
+	/*获取首页门户信息*/
+	function getIndexArticleList(){
+		var columns=['xntz','bctz','xxgw','xxgg'];
+		for(var i=0;i<columns.length;i++){
+			$("#article_"+columns[i]).hide();
+		}
+		$("#ehall_table").removeClass("col-xl-8");
+	}
+	/*获取办事大厅提醒数据*/
+	function getEhallTips(){
+		$.post("../user/index_ehall.html",{},function(data){
+			if(data.msgcode==0){			
+				$("#ehall_submit").text(data.submit);
+				$("#ehall_audit").text(data.audit);
+				$("#ehall_doing").text(data.doing);
+				$("#ehall_done").text(data.done);
+				$("#ehall_cc").text(data.cc);
+			}else{
+				$("#ehall_submit").text("0");
+				$("#ehall_audit").text("0");
+				$("#ehall_doing").text("0");
+				$("#ehall_done").text("0");
+				$("#ehall_cc").text("0");
+			}
+			$("#ehall_submit").removeClass("d-none");
+			$("#ehall_audit").removeClass("d-none");
+			$("#ehall_doing").removeClass("d-none");
+			$("#ehall_done").removeClass("d-none");
+			$("#ehall_cc").removeClass("d-none");
+			$("#ehall_submit_load").addClass("d-none");
+			$("#ehall_audit_load").addClass("d-none");
+			$("#ehall_doing_load").addClass("d-none");
+			$("#ehall_done_load").addClass("d-none");
+			$("#ehall_cc_load").addClass("d-none");
+		},'json');
+	}
+	function setEhallType(type,id){
+		if(type==undefined){
+			type="";
+		}
+		$("#ehall_type").val(type);
+		$("#ehall_keyword").val("");
+		$(".nav-link").removeClass("active");
+		$("#ehall_type_"+id).addClass("active");
+		getEhallList();
+	}
+	function getEhallList(){
+		var keyword=$("#ehall_keyword").val();
+		var type=$("#ehall_type").val();
+		var params={};
+		if(type!=undefined && type!=""){
+			params.type=type;
+		}
+		if(keyword!=undefined && keyword!=""){
+			params.keyword=keyword;
+		}
+		$("#ehall_load").removeClass("d-none");
+		$("#ehall_load").addClass("d-flex");
+		$("#ehall_list").addClass("d-none");
+		$.post("../user/index_ehall_list.html",params,function(data){
+			if(data.msgcode==0){
+				console.log($("#ehall_type_list").html());
+				console.log($("#ehall_type_list").children("li").length);
+				if($("#ehall_type_list").html()==""){
+					var type=data.type;
+					var typeHtml="<li class=\"nav-item text-left type-title\">"
+								+"<span class=\"nav-link\">"
+								+"<span class=\"d-ws\">事项</span>分类：</span></li>"
+								+"<li class=\"nav-item\">"
+								+"<a id=\"ehall_type_0\" href=\"javascript:setEhallType('',0);\" class=\"nav-link active\">全部</a></li>";
+					if(type!=undefined && type.length>0){
+						for(var i=0;i<type.length;i++){
+							var index=i+1;
+							typeHtml+="<li class=\"nav-item\"><a id=\"ehall_type_"+index+"\" href=\"javascript:setEhallType('"+type[i]+"',"+index+");\" class=\"nav-link\">"+type[i]+"</a></li>";
+						}
+						$("#ehall_type_list").append(typeHtml);
+					}
+				}
+				var list=data.list;
+				var html="";
+				if(list!=undefined && list.length>0){
+					var size=list.length;
+					if(size>12){
+						size=12;
+					}
+					for(var i=0;i<size;i++){
+						var temp=list[i];
+						html+="<li class='col-sm-6 col-md-4'><a href='"+temp.link+"' target='_blank'>"+temp.name+"</a></li>";
+					}
+				}else{
+					html+="<li class='col-sm-6 col-md-4'>暂无此类可办事项</li>";
+				}
+				$("#ehall_list").html(html);
+				$("#ehall_load").addClass("d-none");
+				$("#ehall_load").removeClass("d-flex");
+				$("#ehall_list").removeClass("d-none");
+			}
+		},'json');
+	}
+	/*读取未读邮件数量*/
+	function getExmail(){
+		$.post("../user/index_exmail.html",{},function(data,status){
+			var code=data.msgcode;
+			if(code==0){
+				var nmail=data.newmail;
+				$(".mail_new").text(nmail);
+			}
+		},"json");
+	}
+	/*获取今日日程数量*/
+	function getCalendar(){
+		$.post("../user/index_calendar.html",{},function(data){
+			var code=data.msgcode;
+			if(code==0){			
+				var todo=data.todo;
+				$(".calendar_today").text(todo);
+			}
+		},"json");
+	}
+	/*热门应用*/
+	function getOauthApp(){
+		var params={size:30};
+		$("#all_app_load").removeClass("d-none");
+		$("#all_app_load").addClass("d-flex");
+		$("#all_app_list").addClass("d-none");
+		$.post("../user/index_app.html",params,function(data){
+			if(data.msgcode==0){
+				var list=data.list;
+				var html="";
+				if(list!=undefined && list.length>0){
+					for(var i=0;i<list.length;i++){
+						var appcss="";
+						if(i>11){
+							appcss=" class='d-none d-xl-block'";
+						}
+						var app=list[i];
+						html+="<li"+appcss+">"
+							+"<a href='../openapi/onekeyapp.html?app_id="+app.id+"' target='_blank'>"
+							+"<p><img src='../file/images/appico/"+app.appicon+"' alt=''></p>"
+							+"<p>"+app.name+"</p>"
+							+"</a>"
+							+"</li>";
+					}
+				}
+				$("#all_app_list").html(html);
+				$("#all_app_load").addClass("d-none");
+				$("#all_app_load").removeClass("d-flex");
+				$("#all_app_list").removeClass("d-none");
+			}else if(data.msgcode==400011){
+				window.location.href="../user/login.html";
+			}
+		},'json');
+	}
+	function getMyApp(){
+		$.post("../user/get_my_app_list.html",{page:1,size:10},function(data){
+			if(data.msgcode==0){
+				var list=data.page.list;
+				var html="";
+				$("#my_app_load").removeClass("d-none");
+				$("#my_app_load").addClass("d-flex");
+				$("#my_app_list").addClass("d-none");
+				if(list!=undefined && list.length>0){
+					for(var i=0;i<list.length;i++){
+						var app=list[i];
+						html+="<li>"
+							+"<a href='../openapi/onekeyapp.html?app_id="+app.id+"' target='_blank'>"
+							+"<p><img src='../file/images/appico/"+app.appicon+"' alt=''></p>"
+							+"<p>"+app.name+"</p>"
+							+"</a>"
+							+"</li>";
+					}
+				}
+				$("#my_app_list").html(html);
+				$("#my_app_load").addClass("d-none");
+				$("#my_app_load").removeClass("d-flex");
+				$("#my_app_list").removeClass("d-none");
+			}
+		},"json");
+	}
+
+	/*
+	function getToRead(){
+		$.post("../user/index_todo.html",{},function(data){
+			var code=data.msgcode;
+			var todo=data.toRead;
+			if(todo>0){
+				$(".oa_new").text(todo);
+			}else{
+				$(".oa_new").text("0");
+			}
+		},"json");
+	}
+	*/
+</script>
+<!--<![endif]-->
+</body>
+</html>

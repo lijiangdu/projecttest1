@@ -1,0 +1,59 @@
+冬奥会开幕式上，护旗手落泪打动无数网友
+                    
+                    
+                        （原标题：冬奥会开幕式上，护旗手落泪打动无数网友）
+                    
+                    
+                     （观察者网 讯） 昨日（2月4日）20:00，万众期待的北京冬奥会开幕式在国家体育场“鸟巢”隆重举行。而升国旗的一幕，是不少观众眼中，整个开幕式的高光时刻。 外媒同样和国人一同见证了这一幕。在路透社发布的一组照片中，摄影记者施耐德拍到鸟巢体育场内，一位中国军人眼泪滑落脸庞的照片。 “清澈的爱，只为中国”。图片在网络上热转后，无数人都被这一幕打动了。  2月4日，北京冬奥会在鸟巢盛大开幕，引发了全世界的关注。 国旗从各行各业的手中传递到军人手里，伴随着国歌在旗杆上冉冉升起的瞬间，是不少人心中，整个开幕式最振奋人心的时刻。  路透社除了相关报道外，还在图片栏目专门发了一波照片。  其中有一张照片，就抓拍自这升旗的一幕。 图片中，一名军人仰头望着飘扬的国旗，眼角一滴泪水滑落。
+	
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://static.ws.126.net/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://static.ws.126.net/video/img14/zhuzhan/play.png"); }
+
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://static.ws.126.net/video/img14/zhuzhan/play.png");}
+	
+	
+		
+			
+				
+					
+					
+					
+					
+					
+					
+					
+						
+							
+							
+							
+							
+							
+						
+						
+					
+					 if (1/*/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)*/){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://videoimg.ws.126.net/cover/20220205/uc8BsvORh_cover.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/29948953551986418bedec6f93208ac8d6d3fcec4a386b8ab82cb57bdfeea3f1f61966b8abc9790b843d1c0c14cc4c95447d606ff24874c465c648b1a7c3c9b043fc75714aaf2fac6693f774eb09215a9a4cf250cdf10102439ecff99c4322315c3c955b3285412a1858b5e23ce6274f4b0650e8d06ac56d.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+				
+				
+					
+						他在无人注视的角落里，用一滴热泪，表达了所有的骄傲和爱意！
+						（来源：钱江视频）
+					
+                                         				
+				
+					
+                                                					
+				
+			
+			
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(1/*(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)*/){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';NTES(".video-inner .video").attr("style", "background: #000;");}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+		
+		
+ 这张照片，引发了多家媒体的关注和转发，也让更多人见到了这“最美的一滴泪”。   一时间，这滴泪，引发了无数的感慨和感动……   延伸阅读冬奥开幕：14年过去 我们不再向世界解释“我是谁”冬奥会火炬被放入由90个参赛国家（地区）名字组成的大雪花缓缓升空，2022年北京冬奥会开幕式进入尾声。观众们在经历了“我爱猜歌名”和“全球羽绒服”大赏等环节后，心满意足地为开幕式打出了五星好评。柔和、轻松又不失温暖和欣喜，在大年初四的立春之日，全国观众终于感受到了欣慰和满足。北京成为全球首个举办夏冬两季奥运会的城市，经历过2008年的人们难免将今年的开幕式和那一次作对比。14年过去，变化的不仅仅是季节，还有很多。2月4日晚，第二十四届冬季奥林匹克运动会开幕式在北京国家体育场举行。图为倒计时表演。图/中新社记者 崔楠 摄不再解释“我是谁”2008年北京夏季奥运会开幕式，给人留下的印象很多，整场开幕式就像是一幅徐徐拉开的画卷，文字、四大发明、戏曲、绘画、音乐、丝绸之路、太极拳……既有郎朗现场的钢琴演奏，也有刘欢和莎拉·布莱曼的倾情献唱。导演张艺谋可谓煞费苦心将这些带有浓厚东方哲学的符号、历史通过线性的方式表达，整场开幕式看下来，大部分观众都能看到中国向世界阐述的那三个字的核心“我是谁”。虽然在2001年中国便加入了WTO，但事实上，到2008年北京奥运会举办前期，还有不少人对中国的印象停留在贫穷、落后上，潜意识中长期对中国持有偏见。2008年的奥运会开幕式，几乎是以奥运会开幕式前无古人后无来者的方式向全世界介绍了中国，人们热情、幸福、好客，国家富足、祥和、安定。那场开幕式演出做到了令人们心灵震撼。北京申办2008年奥运会时曾说过一句话“给中国一个机会，还世界一个奇迹。”而那届奥运会，中国做到了。14年之后，冬奥会再次由北京举办，导演依然是张艺谋，而这一次，可以看出，他在表达上轻松了不少。当然可以说，是14年的时间积累，让张艺谋在处理上更娴熟更自如，但这背后更多来自中国自身的发展和在世界中扮演角色的变化，可以说张艺谋是中国的一个缩影。在这届冬奥会开幕式演出中，没有一个明星，甚至没有歌唱家、舞蹈家等职业演员，整台演出所有的演员都是大中小学生和普通市民，他们有着自己的学业和工作，依然完美地完成了演出。开幕式前的表演。图/中新社记者 崔楠 摄本届北京冬奥会，各国运动员代表入场顺序与2008年北京奥运会的排序方式相同，除希腊和中国外，各国是按名称的简化汉字笔画顺序进行排列。与奥运会历史上，历届开幕式入场顺序以举办国文字首字母排序相比，中国的这种设计让不少观众感到了国家的繁荣和文化的自信。不再使用人海战术而是采用大面积高科技手段和人工智能技术，这同样是我们通过冬奥会向世界传递的另一个信息，在制造业产业升级、科技高速发展的当下，中国已经不再是那个充斥着劳动密集型产业的国家。最后的点燃火炬环节，举重若轻，按照张艺谋自己接受媒体采访时的表达，这样的设计是为了倡导低碳环保的理念，氢燃料火炬没有引燃的过程就实现了火焰的无缝连接，这是在去年东京奥运会首次采用氢燃料火炬都没有实现的效果。14年过去了，我们再也不需要向世界解释“我是谁”了。开幕式上的“冰雪五环”环节。图/中新社记者 崔楠 摄一条清晰的主线整场北京冬奥会开幕式，并没有以往张艺谋作品中高饱和度及高对比度的色彩造成的视觉冲击，这是与冬奥会的季节、特点相关，整场开幕式的时间也被控制得恰到好处。除去升旗、致辞、运动员入场、点燃圣火等环节外，整场演出主线极其清晰，呈现出诗人李白的那句“燕山雪花大如席”，充满了浪漫、夸张与无穷的想象力。“世界上没有两片一样的雪花”，但在一起便组成了冬天。这就如同参加冬奥会的各个国家（地区）一样，虽然有着不同的语言、外貌和文明，彼此不同却又美美与共，组成一个共同的家园。“一朵雪花”的故事，贯穿了整场开幕式，从倒计时短片、参赛国家（地区）名称引导牌、演员服装、致辞的背景、和平鸽的表演再到主火炬的点燃，都由“一朵雪花”作为核心视觉形象组成。主火炬。图/中新社记者 崔楠 摄从视觉设计上来看，冰雪的特征和气质艺术化的表达，营造出来的浪漫、唯美、温馨的基调，伴随着可视化的高科技呈现，令人印象深刻。整场开幕式中，表演者的舞台是一块巨型光影地屏，营造出超大“冰面”的视效，每一秒地屏画面都在根据节目的调整而变化，或空灵或浪漫，呈现独特美学。2008年北京奥运会时，导演组便想使用这种方式，但当时的技术尚不成熟。如今不仅实现了，还运用了实时捕捉、裸眼3D等多种演艺设备和技术，其中不少为全球首创。节目中的黄河水凝结成冰，再由冰碎裂成为奥运五环，这其中包含了不少中国的传统哲学和看待世界的态度。打破隔阂、化解矛盾、走近彼此最终互相理解，这不仅是奥运会的功能，同样也是中国近年来在世界舞台上一直保持着的样貌。19首属于全人类的世界名曲与《歌唱祖国》串接而成的入场式背景音乐，同样表达了中国对于世界各国文化艺术的热爱与尊重。开幕式焰火表演时长总计仅约3分钟。环保弹药只有1800发，用量仅为2008年北京奥运会的10%，焰火药剂无毒、微烟，大大减少了烟花燃放时对环境的影响，与点燃主体火炬相同，最大化地保障了环保理念的实施。“世界大同、天下一家”成为了北京冬奥会开幕式的核心主题，简洁、清新、精彩，内核不复杂，传递不生硬，这令不少观众感慨，“这是今年春节期间打开电视最值得的一次。”
+                    
+                

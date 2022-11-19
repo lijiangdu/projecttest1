@@ -1,0 +1,59 @@
+
+                    
+                    
+                        （原标题：白宫质疑维和部队进驻哈萨克斯坦 扎哈罗娃犀利回呛）
+                    
+                    
+                    扎哈罗娃（资料图）海外网1月7日电 塔斯社7日报道称，白宫新闻秘书普萨基在6日的记者会上质疑维和部队进驻哈萨克斯坦的合法性。对此，俄罗斯外交部发言人扎哈罗娃评论称，一些美国代表不了解哈萨克斯坦发生的事情，还将这种误解作为华盛顿官方立场。俄罗斯向哈萨克斯坦派遣维和部队扎哈罗娃在社交媒体上写道：“每个人都习惯了这样一个事实，即华盛顿的一些代表并不了解所有的事情，还将它当作美国的立场。”
+	
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://static.ws.126.net/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://static.ws.126.net/video/img14/zhuzhan/play.png"); }
+
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://static.ws.126.net/video/img14/zhuzhan/play.png");}
+	
+	
+		
+			
+				
+					
+					
+					
+					
+					
+					
+					
+						
+							
+							
+							
+							
+							
+						
+						
+					
+					 if (1/*/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)*/){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://videoimg.ws.126.net/cover/20220107/PyqQ5psYj_cover.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/2994895355198641e0e3097d5858445fc32c2f904d430673a00dd59e337351c0911c4f65dd5536c0fced3dd9fe8b3f9df38e96baa294792777cf01be5537f7fcbf211d4e86e2b54e14705dd832c0a63b8ee055d777f619640564a9c59e07a55166e8c343d7126d72bf77b16c495144a85d246bef446cc48d.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+				
+				
+					
+						白宫质疑维和部队进驻哈萨克斯坦合法性 俄罗斯外交部回呛
+						（来源：看看新闻Knews）
+					
+                                         				
+				
+					
+                                                					
+				
+			
+			
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(1/*(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)*/){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';NTES(".video-inner .video").attr("style", "background: #000;");}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+		
+		
+普萨基6日表示，美国正在密切关注关于集安组织向哈萨克斯坦派遣维和部队的报告。白宫对哈萨克斯坦派遣维和部队的请求性质有疑问，质疑这是否是一个合法的邀请。阿拉木图爆发抗议哈萨克斯坦近日爆发大规模抗议活动，骚乱已造成18名执法人员死亡、748人受伤，哈执法机构已经逮捕了2298人。集安组织6日发表正式声明，称向哈萨克斯坦派出维和部队，协助稳定当地局势。目前，维和部队俄分队已经抵达哈萨克斯坦。俄罗斯外交部6日表示，在哈萨克斯坦发生的暴乱是由外部势力煽动的，并企图破坏哈国家完整，为了达到目的还组织了武装行动。俄方面将协助哈萨克斯坦安全部门开展反恐行动，保护哈国民以及其他重要基础设施的安全，帮助哈萨克斯坦尽快恢复正常社会秩序。（海外网 张琪）延伸阅读美国使馆未卜先知？在12月就预警哈萨克斯坦将发生暴动巧了？美国国家民主基金会这两年在哈萨克斯坦的资金投入翻了近一倍！在哈国内乱局快速演进的过程中，越来越多的“证据”指向美国可能是这场政治动荡的幕后黑手。美国已经第一时间予以否认。但俄罗斯外交部今天下午最新表态，明确表示哈萨克斯坦事件是从外部策动的，旨在使用暴力手段破坏国家的安全和完整性。这个“外部”，被广泛认为指的就是美国。美国驻哈萨克大使馆近日接连发布的几条信息也颇为耐人寻味，除了时间略有出入，其他不少预警事项都像是某种“未卜先知”。随着集安组织维和部队抵达，由俄罗斯空降兵组成的先遣部队已经开始执行任务。同时，哈国内强力部门也已展开大规模的“反恐专项作战”，对骚乱参与者和煽动者强力行动。有分析认为，哈国这场独立30年来最严重的骚乱可能不会持续太长时间。中亚的这个“发展明星”为何突然爆发如此严重的骚乱？背后是否有美西方势力策划煽动？这是一场“颜色革命”吗？中国，作为哈萨克斯坦主要邻国之一，哈国的这场骚乱可能对我们产生什么影响？1阿拉木图今天上午见证了一场夹杂激烈枪战的强力行动。这场行动由哈军方和执法部门联合执行。大约50辆军车，包括装甲车和运兵车，包围位于阿拉木图市中心的共和国广场。当时广场上有大约200名骚乱参加者和煽动者，其中一些人装备了突击步枪。“广场上正进行枪战”。行动开始不久，俄卫通社驻当地记者就听到大约10声枪响，“但开枪的不是强力部门人员”。卫通社和塔斯社等多家媒体，都是在发出行动开始消息后两三个小时内就更新动态，说哈强力部门已经解除封锁，离开阿拉木图共和国广场，“没有留下任何警戒线”。是否造成伤亡或有人被捕，目前不详。但作为哈萨克斯坦独立30年来最严重骚乱的一个风暴眼，阿拉木图市的强力行动已经足够展现政府平乱的强硬。据哈萨克斯坦媒体最新报道，政府已明确定性阿拉木图正在进行“反恐作战”。该市警察局发言人说，5日夜间有骚乱者试图攻击行政大楼和警察局等官方机构，结果数十名袭击者被击毙。其实早在昨晚，总统托卡耶夫就已释放强硬平乱的信号。他在发表暴力骚乱以来的第二次电视讲话时，除了宣布即日起接任国家安全会议主席，还称将对骚乱采取强硬措施。随后，托卡耶夫还下令将截至1月19日的紧急状态扩展至全国范围。调动本国军队平乱的同时，哈政府还向集安组织求援。在今天凌晨主持的安全会议上，托卡耶夫称哈萨克斯坦局势是“对国家完整的破坏”，骚乱参加者在境外接受过严格训练，政府已向集安组织寻求帮助。接到求助后，集安组织立即做出回应，决定向哈短期部署维和部队，以实现当地局势稳定。俄卫通社今天下午援引集安组织秘书处的消息说，目前，俄罗斯空天军数架军用运输机正在向哈萨克斯坦领土投送集安组织维和部队的俄罗斯分队。其先遣分队已经开始执行上级下达的任务。集安组织在通报中说，除俄罗斯，白俄罗斯、亚美尼亚、塔吉克斯坦和吉尔吉斯斯坦武装力量分队，也加入了这支集体维和部队。随着内外同时发力稳定局势，总统托卡耶夫已经下令组建专项调查组，以查明骚乱原因，“确认和追究所有涉案人员的刑事和行政责任”。2一场因液化天然气价格上涨而起的局部抗议，为何突然急转直下，演变成一场席卷全国的巨大政治动荡？在哈萨克斯坦局势以小时甚至分钟为节点快速演进的过程中，国际舆论已经多有分析。最近两年哈经济增长有所受挫，通货膨胀高企，加上新冠疫情冲击，新老矛盾叠加导致社会不满积聚。另外一些分析，则是直接指向了“颜色革命”。托卡耶夫在骚乱后第一时间发声，呼吁民众不要受境内外势力蛊惑。现任集安组织安全理事会主席、亚美尼亚总理帕希尼扬也认同，“外部干涉等因素”已对哈萨克斯坦国家安全和主权构成威胁。俄罗斯国家杜马副主席切尔内绍夫表示，美英并不乐见哈萨克斯坦与俄合作的既定方针，并称“颜色革命”的剧本正在重新上演。美国等西方国家，被怀疑是哈萨克斯坦这场骚乱的“幕后黑手”。华盛顿忙不迭出来撇清关系。白宫发言人普萨基说，“俄罗斯有一些人认为，是美国煽动了此次骚乱。我想说这种说法是疯狂的、错误的，这是俄罗斯散布的虚假信息。”这番话，很是有点此地无银的感觉。普萨基自己都含含糊糊，没有说清楚到底哪些俄罗斯人在指认美国是幕后黑手。更何况，俄罗斯迄今就哈萨克斯坦冲突事件发了两份声明，里面都没有提到美国。华盛顿成了中亚国家动荡的“头号嫌疑人”，这还得怪它自己。从2003年的格鲁吉亚“玫瑰革命”、2004年的乌克兰“橙色革命”，再到2005年的吉尔吉斯斯坦“郁金香革命”……美国在中亚留下不少助推“颜色革命”的黑历史。一位曾长期生活在哈萨克斯坦的学者说，任何社会都会存在一些社会问题，这些社会问题很容易被外部势力利用。具体到哈萨克斯坦这次的冲突，仅仅是天然气涨价的问题，怎么会酿成如今的全国性抗议，肯定有外国因素在捣乱。不过，也有俄罗斯研究学者认为，现有迹象表明，美西方作为“幕后黑手”直接策动哈国内抗议的可能性并不大。一是利益。哈萨克斯坦和美国的能源合作密切，埃克森美孚和雪佛龙都在哈萨克斯坦西部投资了数百亿美元。作为中亚地区的“多面平衡手”，历届哈萨克斯坦政府与华盛顿的关系一直不错。与俄罗斯和白俄罗斯相比，美国政府对哈萨克斯坦政府的批评少得多。二是动机。美国的中亚政策与中东政策类似，近些年均处于收缩态势，它正将精力集中到印太方向，对哈现政府没有颠覆的明确需求。三是时机。美国正为国内新增新冠病例每日超过100万挠头，精心策划、有意推动，试图颠覆哈萨克斯坦现政权，确实有点力有不逮。中国现代国际关系研究院欧亚所所长丁晓星告诉补壹刀，关于美西方直接插手的公开证据是比较少的。但实事求是说，美国在中亚、在哈萨克斯坦已经深耕几十年了，当地的非政府组织、媒体都很活跃，对哈萨克斯坦人的思想观念有些潜移默化的影响，对骚乱升级起到推波助澜的作用。上海国际问题研究院研究员赵隆也认为，不能就此排除美西方通过媒体或非政府组织“借题发挥”的可能性。比如说，趁机利用社交平台或本地代理人进行间接政治动员，将干涉目标从建立所谓“西式民主”转向支持民族主义、本土主义势力，利用抗议推动哈内部政治势力重组，培养和扶植更为亲西方的反对派力量，等等。
+                    
+                

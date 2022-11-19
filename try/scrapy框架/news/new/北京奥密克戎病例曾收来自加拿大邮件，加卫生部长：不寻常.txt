@@ -1,0 +1,59 @@
+
+                    
+                    
+                        （原标题：北京奥密克戎病例曾收来自加拿大邮件，加卫生部长：不寻常）
+                    
+                    
+                     （观察者网讯）北京市1月17日通报海淀区新冠肺炎确诊病例溯源情况，指出病例自述近期曾收到来自加拿大的国际邮件。结合病例流行病学史、可疑物品样本检测结果以及病例标本的基因测序结果，不排除其经境外物品而感染病毒的可能。 加拿大卫生部长杜克洛斯（Jean-Yves Duclos）当地时间17日被问及有关问题时表示，这一说法“不寻常”。  加拿大卫生部长杜克洛斯  视频截图 加部长：这个观点“不寻常” 加拿大全球新闻网视频显示，杜克洛斯17日在一场新闻发布会上说，重要的意见必须以信息和专业知识为基础，“我们都想在这方面听从专家的意见，我会请加拿大公共卫生机构的专家来研究这个问题。” 当记者追问杜克洛斯“是否不排除加拿大邮件将奥密克戎引入中国”时，他表示这是个“不寻常”的观点，并再次强调，“我不是专家、医生或生物学家，我会让适当的人士提供正确的建议和观点。”
+	
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://static.ws.126.net/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://static.ws.126.net/video/img14/zhuzhan/play.png"); }
+
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://static.ws.126.net/video/img14/zhuzhan/play.png");}
+	
+	
+		
+			
+				
+					
+					
+					
+					
+					
+					
+					
+						
+							
+							
+							
+							
+							
+						
+						
+					
+					 if (1/*/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)*/){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://videoimg.ws.126.net/cover/20220118/W32BnNPCZ_cover.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/299489535519864195618b0e66649894dfb2e0cca0e452b16ffc9e87d6385b51ee5ba053fab7dc4775a682aabed2c454a65c28703ca232a8f6909ae406a53e3b501e56523e3ac6eec1a370dc4ac021082437f02ad1b52cc8c0bac16d36cb6abff3548e60cb4df7df1d44f84e183da0f4fd54b967eef5bb97.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+				
+				
+					
+						北京奥密克戎病例曾收来自加拿大邮件，加卫生部长回应了
+						（来源：环球时报新闻）
+					
+                                         				
+				
+					
+                                                					
+				
+			
+			
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(1/*(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)*/){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';NTES(".video-inner .video").attr("style", "background: #000;");}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+		
+		
+ 1月17日，北京市政府新闻办公室组织召开北京市新冠肺炎疫情防控工作第267场新闻发布会，介绍本次本土疫情溯源情况。 北京市疾病预防控制中心副主任、全国新型冠状病毒肺炎专家组成员庞星火介绍，1月15日通报的病例发病前14天内均无外省市旅居史；通过排查病例与各类风险人群接触史，未发现有轨迹重合。 病例自述近期曾收发过国际邮件，“对此我们进行了全面调查、采样和检测。该国际邮件于1月7日自加拿大发出，途经美国及中国香港到达北京，病例于1月11日收到邮件。”病例自述，在此期间其仅接触邮件包装外表面和文件纸张首页，未接触包装内表面和其他纸张。已采集该国际邮件环境标本22件，其中包装外表面2件、内表面2件以及文件内纸张标本8件，经核酸检测均为阳性，并检测出奥密克戎变异株特异性突变位点。 庞星火表示，截至目前，在运输途中可能接触人员共8人，除病例外其余接触人员核酸检测结果均为阴性。此外，采集同一来源发往另一地点尚未拆封的国际邮件环境标本54件，检出5件阳性，其中外包装阳性1件和文件内纸张阳性4件。 “结合病例流行病学史、可疑物品样本检测结果以及病例标本的基因测序结果，不排除其经境外物品而感染病毒的可能。” 庞星火表示，既往我国多个省（市）也曾报道经冷链或非冷链物品传播的案例，近期我国多地也曾有境外邮件及其他物品阳性的报道。庞星火 资料图 她提醒，新冠病毒可在低温下长时间存活，冬季经物传播的风险增大。目前全球奥密克戎变异株引发的新冠肺炎疫情高发，市民在国外疫情高发期间尽量减少购买境外商品；若收到境外邮件或物品时，要正确佩戴口罩和一次性手套，减少直接接触和交流。 除了北京近期确诊病例有境外物品接触史，在深圳市1月17日举行的新闻发布会上，市卫生健康委二级巡视员林汉城表示，深圳“0107”、“0115”疫情的首发病例近期均有境外物品接触史。根据流调和病毒溯源结果综合分析，不排除经境外邮件物品感染的可能。 在今天（18日）下午举行的北京防控新闻发布会上，庞星火通报，1月17日0时至1月18日15时，北京新增2例本土新冠肺炎确诊病例和1例核酸阳性者。她再次呼吁“少海淘” ，履行好疫情防控个人责任。 加卫生部门称可能性“极低” 有关新冠病毒能否通过“物传人”进行传播，各研究机构的答案不尽相同。2020年3月，美国国立卫生研究院、国家免疫与呼吸系统疾病中心等国际顶尖科研机构的联合团队实验结果显示，在正常的空气湿度及温度条件下，新冠病毒至少能在铜表面存活4个小时，在纸板上存活24小时，在聚丙烯塑料和不锈钢表面的存活时间更长，达到72小时。也有澳大利亚研究机构认为，新冠病毒可在钞票、玻璃等光滑表面上存活28天。资料图 在加拿大卫生部门看来，新冠病毒通过邮件传播的可能性“极低”。 加拿大公共卫生局在回复加拿大广播公司（CBC）的电邮中称，虽然邮件可能会被污染，但在处理纸质邮件或硬纸板包裹（包括国际邮件）时，被新冠感染的风险极低……我们知道，当人们与其他感染病毒的人密切接触时，病毒传播率才是最高的。” 加拿大皇后大学传染病学专家拉尔德·埃文斯（Gerald Evans）对全球新闻网说，新冠病毒离开宿主后能存活的时间不会很长。他援引英国布里斯托尔大学上周发布的一项研究指出，被感染者呼出的新冠病毒进入空气后，传染性在20分钟以内就会失去90%，其中大部分损失发生在5分钟内。 多伦多大学流行病学家科林·弗内斯（Colin Furness）则称，尽管新冠病毒在纸上的生存能力取决于纸面的粗糙程度，但病毒不太可能存活一两天以上。 国家邮政局：切实筑牢国际邮件快件疫情防控屏障 自从新冠病毒被发现以来，就不断刷新着人们的认知。2020年9、10月份青岛曾出现一波新冠疫情，当时青岛市副市长栾新介绍，青岛此次疫情防控工作在世界上首次找到了充分的证据链，表明新冠病毒可由物传人、冷冻条件可长期存活。 至于有关国际邮件是否有传播新冠病毒的风险，中国疾病预防控制中心消毒学首席专家张流波日前接受第一财经采访时表示，目前新冠在国际上还处于大流行状态，快递存在被污染的风险。如果污染量比较高，伴有唾液、痰液等有机物，再加上外环境气温低，特别是北半球目前正是寒冬季节，储运过程温度低，飞机货仓气温也很低，有利于病毒存活，所以病毒存活七天甚至更长时间是有可能的。 据央视新闻17日报道，国家邮政局安全监督管理司日前已发出通知指出，当前春节临近，北京冬奥会开幕在即，人民群众寄递服务需求旺盛，疫情输入和传播风险加大，防控形势严峻复杂。 通知要求，进一步提高思想认识，切实筑牢国际邮件快件疫情防控屏障，严防境外疫情通过寄递渠道输入。
+                    
+                

@@ -1,0 +1,59 @@
+
+                    
+                    
+                        （原标题：朴槿惠出狱变身畅销作家：新书受老年男性热捧 韩国销量第一）
+                    
+                    
+                    韩国首尔一家书店，摆放着朴槿惠的新书。海外网1月7日电 韩国前总统朴槿惠出狱后，摇身一变成了爆款作家。其新书《不是对谁都会心生思念》受到热捧，成为韩国多个书店最为热销的图书。韩媒称，四分之一的读者是60岁以上的老年男性。一位老人在选购朴槿惠的新书据韩联社报道，韩国最大书店教保文库6日公布的数据显示，朴槿惠的新书成为新年首周销量冠军。不仅如此，该书还登上了线上书店“Yes24”周度销售榜第一名。目前，该书售价为13500韩元，约合人民币72元。朴槿惠获释，支持者放爆竹庆祝该书读者中，六旬以上老人占比最高。具体来说，超过四分之一（25.7%）是60岁以上的男性，10.5%是60岁以上女性，两者合计占比36.2%。朴槿惠新书的封面《不是对谁都会心生思念》于2021年12月30日下午出版，几个小时后，朴槿惠获特赦出狱，正式结束4年零9个月的牢狱生活。书中记录了朴槿惠坐牢期间，从支持者收到的信件以及自己回信的内容，书名的灵感，也来自支持者的来信。律师近日透露，朴槿惠狱中收到8万封粉丝来信，她亲自要求将其印成书。朴槿惠获释，支持者挥舞应援棒庆祝朴槿惠在序言中写道，回首自己当总统的时候，在任何时候都处于连续紧张的状态。连自己都不知道，为了国民工作的时间是如何流逝的。追忆往事，她倍感痛心。“因为自己曾经信任的身边人的越轨行为，自己所做的一切都被打上积弊的烙印，为此感到非常痛心。”她提及当下的心情，认为应该放下怨恨别人的心态和委屈心理。“谎言能暂时蒙蔽人们的眼睛和耳朵欺瞒世人，但相信随着时间流逝，真相一定会显露。”朴槿惠获释，粉丝送花环庆祝朴槿惠还写道，自己“从未出于私心为他人谋利”，“虽然我让大家失望，但因为有国民给我寄来充满温暖爱心的信，我才能坚持到现在。”
+	
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://static.ws.126.net/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://static.ws.126.net/video/img14/zhuzhan/play.png"); }
+
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://static.ws.126.net/video/img14/zhuzhan/play.png");}
+	
+	
+		
+			
+				
+					
+					
+					
+					
+					
+					
+					
+						
+							
+							
+							
+							
+							
+						
+						
+					
+					 if (1/*/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)*/){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://videoimg.ws.126.net/cover/20220107/2KhH698Ul_cover.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/2994895355198641334d546458f58bd87f1abba56f2c13c935bf5fe0a5bb9d457a51f3ace3588056529219903bd221ff6d1b282d5b1269be28766c8f34f06b1748b9af058f5c6bb8b30c6e97a0a28417dc215470d7a91e22ff027c247bf20aa05611d35d87294b59da2cfcf0dca781372209fefafbb2f8ff.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+				
+				
+					
+						朴槿惠出狱变身畅销作家：新书受老年男性热捧，韩国销量第一
+						（来源：海外网）
+					
+                                         				
+				
+					
+                                                					
+				
+			
+			
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(1/*(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)*/){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';NTES(".video-inner .video").attr("style", "background: #000;");}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+		
+		
+朴槿惠因健康不佳，预计到今年2月才能出院。她获释时，医院外堆满500个花环，还聚集了大批支持者，他们燃放爆竹，挥舞太极旗和应援棒欢呼，许多人泪流满面，但朴槿惠始终没有露面。（海外网 刘强）延伸阅读朴槿惠终于出狱 第一件事就是发新书哭诉“我没错”？当地时间12月31日零时，在坐牢4年零9个月后，韩国前总统朴槿惠因获得特赦而出狱。就在30日，她刚刚出版了在狱中写就的书信集。新书一开始预售就冲上了销量榜首，朴槿惠的影响力可见一斑。值得注意的是，特赦加新书两大事件在证明了朴槿惠依旧是世界关注焦点的同时，也给韩国两大党带去了不同的“动荡”，甚至可能将影响韩国明年的总统大选。还未出狱，新书预售便登榜一这本新书名为《不是对谁都会心生思念》，一出现便引发了巨大的关注，在28日开始预售时就登上了韩国最大书店教保文库的每日热销榜第一。这本书的封面是朴槿惠的一张旧照，照片中的朴槿惠身着红色大衣，戴着红围巾，雪落在发顶肩头，而她低着头在抿嘴微笑。据韩国NewDaily网站报道，该书于12月30日正式出版，主要记录了朴槿惠在狱中所收到的支持者来信以及她自己的回信，书名就摘自2019年5月一位支持者的来信。朴槿惠在这本书的序言中写道：“回首自己当总统的时候，在任何时候都处于连续紧张的状态。连自己都不知道，为了国民工作的时间是如何流逝的。因为我相信周围人的越轨行为，我所做的一切都被打上了欺诈的烙印，我为此感到非常难过。以前一起搞政治活动的人，把所有的过错都推给了我，让我觉得人生无常。” 朴槿惠还写道，自己应该放下怨恨和委屈的心态。面对一位认为弹劾不当的支持者来信，朴槿惠回应称：“谎言可以暂时蒙蔽人们的眼睛和耳朵，以欺骗世界，但我相信，随着时间的推移，真相会大白。”朴槿惠还提到自己通过律师对在她最黑暗时期给予鼓励和关爱的市民表示感谢。“虽然不知道是什么时候，但我相信，我还会再见到你的。”iNews报道称，朴槿惠在序言中所写的内容可以概括为三个意思：一是身边有过错的人把责任推到自己身上，她所做的一切都被打上了不良行为的烙印；二是，她不怨任何人，不委屈；三是真相一定会大白于天下，感谢给予鼓励和支持的市民。iNews认为：“朴槿惠在新书序言中所写的内容，可以被看做为自己的辩护，但又隐隐有一种落寞的感觉。如果把这个序言与她身体每况愈下的传言联系起来，就会发现朴槿惠不仅病情恶化、精神不稳定，心理也发生了很大的变化。”为何能获得特赦？朴槿惠恶化的健康状况是她被特赦的原因之一。25日，文在寅总统决定赦免朴槿惠，作为新年特赦的一部分，他曾表示，做出这一决定是考虑到朴槿惠的健康状况不断恶化，也是促进民族团结努力的一部分。因为健康问题，朴槿惠在狱中多次进行手术及其他治疗。在2019年9月，她曾接受了肩部手术，在2021年1月、7月、11月又曾三度入院。11月22日入住首尔江南区三星医疗中心以来，就一直在那里接受治疗，获得特赦令时也仍在医院中。韩联社称，朴槿惠决定在31日获得赦免证书后，继续待在医院休养，直至2022年2月初。《韩民族》（Hankyoreh）报道称朴槿惠将继续留在医院，以接受肩部和背部的治疗，并接受牙科和心理健康护理。她的律师柳荣夏26日接受《韩民族》的采访称：“根据她对治疗的反应，她的住院时间可能会延长。”韩媒称，朴槿惠近来健康恶化，除了肩膀和腰椎疾病等痼疾以外，牙齿也无法咀嚼食物，只能喝粥或吃炒面，由于精神状态不安，还曾在精神健康医学科接受治疗。不过特赦为朴槿惠注入了精神上的药剂，朴槿惠在25日听闻特赦消息后发表声明：“我将专注于治疗我的疾病，以便我尽快亲自感谢韩国人民。”韩媒称，原本牙齿不能嚼东西、只能喝粥的她，当天就要了一碗软米饭，“她恢复健康的意志变强了，希望以健康的状态站在国民面前”。在健康之外，朴槿惠所留有的影响力以及支持者也是获得特赦的一大因素，也就是文在寅所说的“促进民族团结”。韩联社报道称朴槿惠获得了大邱和庆尚北道选民的大力支持。并且在获释当日，她的支持者预计将在首尔南部的医院附近举行集会庆祝。在朴槿惠所在医院附近的一条街道上，已经有许多树立的花环，上面写着祝她身体健康。在首尔一些地方，也可以看到极右政党大写的标语：“朴槿惠总统的无罪释放。”对2022年大选有何影响？朴槿惠获得特赦是其支持者影响力的体现，在另一方面也就会对韩国的政治产生一定的影响，近期来说就是明年3月的大选。《韩国先驱报》在听闻朴槿惠获释消息当日就指出：“距大选还有75天，政府决定对前总统朴槿惠进行特赦，这成为了影响大选结果的重要因素。”目前的执政党共同民主党担心，文在寅决定赦免朴槿惠，会令其支持者失望。当年正是在朴槿惠被弹劾后，文在寅才能在2017年总统大选中获得压倒性胜利。朴槿惠是大规模腐败丑闻的中心，并导致数万人走上街头进行抗议。在抗议进行的同时，自由派获得了极大的支持，文在寅为代表的民主党正是在这种情况下承诺他们的政府将与朴槿惠领导下的腐败政府完全不同。而另一方面，国民力量党虽然对赦免朴槿惠表示欢迎，但党内核心人士批评称，文在寅总统在3月大选前夕，采取了让保守党内部分裂的“政治行动”。对于明年3月的大选，国民力量党已经提名了前检察总长尹锡悦（Yoon Suk-yeol），而尹锡悦正是调查朴槿惠当年贪腐案件的首席检察官。尹锡悦曾透露说，他当时的调查也受到了很大的外界压力，曾要求他淡化调查结果，而他的不配合也引起了朴槿惠政府的愤怒，并被降职。在尹锡悦和朴槿惠之间发生过一系列事件的背景下，朴槿惠对尹锡烈这一候选人的态度将成为凝聚或分裂政党的关键因素。保守党内部分支持者将朴槿惠下台的责任推给尹锡悦，朴槿惠的赦免可能会影响到他们的意见。不过，总统办公室驳斥了文在寅赦免朴槿惠的决定是出于政治目的的说法。总统办公室的一位官员表示：“我们不知道哪一方（政党）会（从朴槿惠的赦免中受益）。但我相信政府没有考虑总统选举。如果政府要考虑政治影响，难道没有更好的时机去做吗？”新闻来源：Teller Report、BBC、日本时报、韩国先驱报、韩民族、iNews、韩联社，部分图片来源于网络
+                    
+                

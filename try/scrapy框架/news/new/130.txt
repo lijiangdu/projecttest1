@@ -1,0 +1,59 @@
+姚明回应NBA球员涉华不实言论
+                    
+                    
+                        （原标题：姚明回应NBA球员涉华不实言论）
+                    
+                    
+                    北京冬奥会开幕日益临近，全国政协委员、中国篮球协会主席、“冰雪运动推广大使”姚明17日在中国公共外交协会举办的“临甲7号沙龙”“世界的冬奥”主题下午茶活动中回答《环球时报》记者提问表示，他相信北京冬奥会可以在东京奥运会的防疫经验上做进一步优化和完善，并在防疫标准上做得更好。他同时表示，如有机会希望邀请对中国持负面看法的NBA球星来中国看看，“这会让他们对中国有更加全面的认识。”姚明是2015年申办冬奥团队中的一员，他告诉记者，自己还清楚记得2008年的北京夏季奥运会给北京及整个中国带来了许多改变。他也非常期待看到2022年北京冬奥会给我们带来新的变化，并相信所有准备工作都会做得很完善。“实际上，东京奥运会给我们提供了一个非常好的学习机会，我相信在相关经验基础上，我们一定会去改进一些过去碰到的问题。”在被《环球时报》记者问到疫情会对冬奥赛事带来怎样的影响，以及东京奥运的防疫措施给北京冬奥会提供怎样的借鉴和启示时，姚明对《环球时报》记者说，去年他作为中国代表团一员前往日本参加东京奥运会，看到日本方面为比赛的顺利进行做了大量工作。虽然当时也有一些感染病例，但是最终整个比赛过程都完成了。所以他相信北京冬奥会可以在日本的经验上做进一步优化和完善，并在防疫标准上做得更好。姚明表示，他个人很期待观看冰球比赛。虽然因为某些原因，因为美国北美国家冰球联盟（NHL）的运动员将缺席冬奥会，但姚明相信，冬奥会的冰球比赛仍然会非常精彩，尤其是能够回到2008年曾经作为中国男篮比赛场馆的五棵松体育馆观看冬奥会冰球比赛，他感到非常高兴。作为一个南方人，姚明坦言，冰雪运动确实不是自己的擅长。但这与中国参加奥运会、申办奥运会和举办奥运会的历程相似，都需要有从不熟悉到熟悉的过程。对于包括美国在内的个别国家宣称不派官方代表出席冬奥会的态度，姚明说，无论是冬奥会还是夏奥会，它首先是为全世界运动员和教练员以及所有的体育爱好者提供的平台，这一点是最重要的。关于这一点，姚明谈到当年去美国打球时候的经验。当时，为了更好融入到美国球队中，他买了很多书籍来了解当地的风俗习惯以及公序良俗。虽然做了很多准备，但在生活及训练中都避免不了碰到这样或者那样的问题。姚明说，冬奥会是一场体育和文化的盛会，他希望就像一场庙会一样，哪怕是平时有争吵的邻居，在参加庙会的时候都会享受节日的氛围。此前，NBA波士顿凯尔特人队篮球运动员坎特曾发表一些涉华不实言论，作为曾经在NBA效力的中国篮球明星，姚明也在交流活动中对此事表达了看法。他首先表示，体育是交流的桥梁。“既然是桥梁，在上面通行的人和车就避免不了有时会‘撞一下’。我相信时间会解决很多问题，我们希望这座桥梁是始终存在的。”
+	
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://static.ws.126.net/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://static.ws.126.net/video/img14/zhuzhan/play.png"); }
+
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://static.ws.126.net/video/img14/zhuzhan/play.png");}
+	
+	
+		
+			
+				
+					
+					
+					
+					
+					
+					
+					
+						
+							
+							
+							
+							
+							
+						
+						
+					
+					 if (1/*/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)*/){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://videoimg.ws.126.net/cover/20220117/1vfXabFN5_cover.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/29948953551986413ecd1402d1db42dc8572f4ae89da17d783a65dfe0a46a1ae9ecf09983b52e8bc0a986d3aabda83f5e6915bfdd02b74b3efcbd07e520dfc5b91dd4a1d48a6bc90ce028172989b6c20a95dbf101b190a1b53116331c5a872c57a02046162d57f0ce7119155e323f4d811ded6b4fcf47e59.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+				
+				
+					
+						姚明回应NBA球员涉华不实言论：体育是交流的桥梁，上面通行的人、车免不了“撞一下”
+						（来源：观察者网）
+					
+                                         				
+				
+					
+                                                					
+				
+			
+			
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(1/*(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)*/){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';NTES(".video-inner .video").attr("style", "background: #000;");}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+		
+		
+对于相关涉事球员，姚明说，每个人了解事物的渠道是不同的，因此会有一些不一样的观点，针对特定球员的言论，他不便评价，“但是如果有机会的话，我希望可以邀请他来中国看看。”姚明说，这会让他对中国有更加全面的认识。
+                    
+                

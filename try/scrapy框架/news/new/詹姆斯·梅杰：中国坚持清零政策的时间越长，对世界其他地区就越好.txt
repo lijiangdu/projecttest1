@@ -1,0 +1,109 @@
+
+                    
+                    
+                        （原标题：詹姆斯·梅杰：中国坚持清零政策的时间越长，对世界其他地区就越好）
+                    
+                    
+                     【文/詹姆斯·梅杰 译/观察者网 由冠群】 过去两年，通过采取封城、全员检测、严格入境等抗疫清零措施，中国避免了死亡病例在国内大量出现，并确保无论是苹果手机、特斯拉轿车还是化肥、汽车配件都能畅通无阻地继续流向世界其他地区。 如果消费者和企业希望继续购买中国制造的商品，而不必忍受商品短缺和价格上涨，他们应该希望中国继续坚持执行自己的清零政策。 然而，你在中国以外是听不到这种声音的。北京坚持扑灭所有疫情招来了越来越多的批评之声，这些批评强调此种做法会损害中国经济，危害全球供应链，甚至还威胁到了冬奥运动员的人权。
+	
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://static.ws.126.net/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://static.ws.126.net/video/img14/zhuzhan/play.png"); }
+
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://static.ws.126.net/video/img14/zhuzhan/play.png");}
+	
+	
+		
+			
+				
+					
+					
+					
+					
+					
+					
+					
+						
+							
+							
+							
+							
+							
+						
+						
+					
+					 if (1/*/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)*/){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://videoimg.ws.126.net/cover/20220210/PROxErA1t_cover.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/29948953551986413e5376cd409caf325791c3fb34b65eaac0e12370cb7061de5b03b78460c3d090ee51960a8355e53c7caa3f8f824b2fd896c0afd37bcf4f93834e3cd18f53dad8179ef6b2902f0d63235b1ce60175994d1dd2b9de4f5d455d638fa1880bac05cc847333e618912fce7c595a7810dc211c.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+				
+				
+					
+						外媒记者体验冬奥疫情防控：原来中国真的能“清零”
+						（来源：直播港澳台）
+					
+                                         				
+				
+					
+                                                					
+				
+			
+			
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(1/*(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)*/){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';NTES(".video-inner .video").attr("style", "background: #000;");}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+		
+		
+ 国际货币基金组织（IMF）高级官员吉塔•戈皮纳特（Gita Gopinath）上个月告诉媒体说，各国政府需要“重新调整”它们的防疫措施，警告更多封锁造成的破坏可能“给全球供应链带来非常严重的后果”。高盛投资公司1月份发表的报告认为，如果今年冬天中国多个省份受到奥密克戎疫情的打击，政府在全国范围内实施封城措施，中国今年的增长率可能会降至1.5%，这是自1976年以来的最低水平。 这些担忧是实实在在的——如果中国试图阻止新冠病毒在境内传播，就需要付出高昂的经济、财政和人力代价。假如疫情持续蔓延，这些代价还可能会变得更高。 事实上，尽管中国人的疫苗接种率高达惊人的87%，但人们仍极易感染病毒，如果中国放弃执行清零政策，允许病毒在14亿人口中几乎不受控制地传播，那么它所造成的生命和经济损失会使中国和世界现在付出的代价相形见绌。 中国重新开放后，感染人数会激增，那时中国的处境可能比其他国家目前的抗疫处境更糟。美国外交关系委员会全球卫生问题高级研究员黄严忠表示，中国目前在保护国人免受感染方面取得了成功，但这也意味着中国正面临着“巨大的免疫差距”。  美国外交关系委员会全球卫生问题高级研究员黄严忠接受新华社记者专访 图源：新华社 北京大学研究人员的模型显示，如果以与美国类似的方式重新开放，中国将迎来一场规模远超任何国家的“超大规模疫情”，每天将有超过63万人感染。即使死亡人数可以保持在韩国或日本的低水平，中国的死亡人数仍可能比过去两年官方公布的新冠死亡病例4636例多得多。（在人口不到中国四分之一的美国，死亡病例最近超过了90万。） 自病毒在武汉首现以来，中国曾多次爆发疫情，但这些疫情都已被政府采取措施扑灭，比如最近西安市就施行了封城措施，直到一月下旬，这座城市已将1300万人封闭在家约一个月的时间。到目前为止，反复进行的全员检测和接触者追踪已经足以控制最近在北京、天津、杭州和其他地方爆发的奥密克戎疫情。 虽然这些限制措施导致港口和工厂暂时关闭，但该国的各行各业迄今为止毫发无损。中国的出口在2020年创下纪录，然后在2021年再创新高。如果不是因为物流没有中断，那美国进口商品的价格将上涨得更快，而商品短缺，无论是必需品还是奢侈品，都将更加明显。 如果中国最终重新开放边境并撤除国内防疫控制措施，那这种稳定的商品供应就可能难以维持。与中国一样长期执行清零政策的澳大利亚，在该国大部分地区结束封锁并取消对所有入境者的强制性边境检疫后，1月份感染和死亡人数激增。  澳大利亚宣布奥密克戎感染病例激增 中国似乎会一直执行清零政策。除非新病毒变种变得比奥密克戎变种危害更小，否则中国人的反应很可能与澳大利亚人相似：人们会呆在家里以避免感染，或者他们因感染或与感染者有过亲密接触而选择待在家中。
+	
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://static.ws.126.net/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://static.ws.126.net/video/img14/zhuzhan/play.png"); }
+
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://static.ws.126.net/video/img14/zhuzhan/play.png");}
+	
+	
+		
+			
+				
+					
+					
+					
+					
+					
+					
+					
+						
+							
+							
+							
+							
+							
+						
+						
+					
+					 if (1/*/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)*/){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://videoimg.ws.126.net/cover/20220127/OQaoS3N9K_cover.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/29948953551986413e5376cd409caf3274877fc4b7a4f5c9b6d05dc55b1092643767249764ffb1884f8815ae71647dac321360540f6d8464849f65f5f8fbad83f539e6282d621ec5ab6edde46ebf74c234a13c21144a56095cbe3c93443bb0f8aa61de198def5f19f044f3e3a9ccb626f9f9db0579735aff.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+				
+				
+					
+						中国“清零”疫情防控政策影响世界经济增长？外交部回应
+						（来源：直新闻）
+					
+                                         				
+				
+					
+                                                					
+				
+			
+			
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(1/*(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)*/){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';NTES(".video-inner .video").attr("style", "background: #000;");}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+		
+		
+ 在2020年疫情爆发初期，许多中国人选择自我隔离，即使政府没有强迫他们这么做。如果全国各地的感染和死亡人数激增，那这种情况很可能会再次发生，尤其是在医院人满为患的情况下。 如果发生这种情况，它对供应链的打击将是疫情爆发以来最严重的。从全球影响来看，如果悉尼的超市因人手不足而采取限购措施或临时关闭，这不会在全世界产生连锁反应；但如果中国出现了旷工现象，从而迫使中国各地的工厂和港口工作速度放慢或关闭，那将对世界产生犹如惊涛骇浪般的冲击。 即使只是暂时出现这种情况，大范围的商品短缺也会推高本已高企的通胀，拖累早在奥密克戎疫情到来之前就已现疲弱的全球经济复苏。（国际货币基金组织最近对2022年世界经济增长率的预测已从4.9%下调至4.4%。） 尽管北京没有防御住奥密克戎病毒的侵袭，但许多人认为，中国的防疫政策肯定会持续到2022年底甚至之后。根据国际货币基金组织最新发表的一篇报告，中国政府承认执行清零政策会付出代价，但仍然认为收益大过代价。 中国疾病预防控制中心流行病学首席专家吴尊友表示，即使获得更好的疫苗也可能不足以推动中国改变政策，因为仅仅依靠疫苗接种并不能有效预防感染，变种病毒仍可能会绕开人体免疫系统。 他最近对有官方背景的《环球时报》说，“我们以前认为新冠肺炎基本可以通过疫苗接种的方式控制住，但现在看来，除了综合措施外，没有简单的方法能控制它。”他补充说，只要输入性感染仍有能力引发大规模疫情，中国就将继续实施现行政策。 然而，正如过去两年所证明的那样，暂时和孤立的封城措施并不意味着制造企业和出口商会停止工作，货物会无法上船。因此，中国坚持清零政策的时间越长，对世界其他地区就越好。 （观察者网由冠群译自美国彭博社网站）
+                    
+                

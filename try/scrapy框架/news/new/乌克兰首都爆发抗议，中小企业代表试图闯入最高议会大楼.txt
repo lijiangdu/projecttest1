@@ -1,0 +1,59 @@
+
+                    
+                    
+                        （原标题：乌克兰首都爆发抗议，中小企业代表试图闯入最高议会大楼）
+                    
+                    
+                    【文/观察者网 周弋博】与俄罗斯紧张对峙的乌克兰，内部先“乱了”。据“今日俄罗斯”（RT）消息，当地时间1月25日，乌克兰首都基辅出现混乱示威局面，一些中小企业代表试图闯入乌克兰最高拉达（议会）大楼，与警方爆发冲突导致多人受伤。乌克兰国家通讯社报道称，现场约有2000名抗议者冲破围栏，与楼外数百名执法人员发生冲突，楼内的议员和媒体已被禁止离开大楼。据悉，这场示威的爆发与乌克兰总统泽连斯基2020年签署的一项法律有关。该法律要求全国经营者使用特殊的收银机，记录每笔交易的税务记录，并对不遵守者处以高额罚款。此后，虽然一些乌克兰小企业主们一直反对该法律，但该法律仍于2022年1月1日如期生效。据RT报道，社交媒体上出现的照片和视频显示，一群人挥舞着乌克兰国旗和其他各种横幅在基辅市中心进行示威游行。对此，乌克兰警方不得不封锁一些道路，并在抗议期间疏导交通。而当示威者聚集在议会大楼前时，他们与执法部门之间的紧张局势骤然升温。当地时间1月25日，乌克兰首都基辅议会大厦外发生混乱 图源：视觉中国当地时间1月25日，乌克兰首都基辅议会大厦外发生混乱 图源：视觉中国现场视频显示，几名游行参与者试图突破警方的封锁线。然而，全副武装的警察坚守阵地，将抗议者从大楼入口推开。乌克兰国家通讯社报道称，现场约有2000名抗议者冲破围栏，与楼外数百名执法人员发生冲突，楼内的议员和媒体已被禁止离开大楼。乌克兰警方发布声明称，有3名抗议者和18名警察在骚乱中受伤。乌克兰国家通讯社称，有许多冲击一会大楼的抗议者被警方逮捕，但并未指出具体人数。
+	
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://static.ws.126.net/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://static.ws.126.net/video/img14/zhuzhan/play.png"); }
+
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://static.ws.126.net/video/img14/zhuzhan/play.png");}
+	
+	
+		
+			
+				
+					
+					
+					
+					
+					
+					
+					
+						
+							
+							
+							
+							
+							
+						
+						
+					
+					 if (1/*/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)*/){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://videoimg.ws.126.net/cover/20220126/WczDv2Rlp_cover.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/2994895355198641e1bd28da757e5c09fe2f6218c041eefc80aa581defebded75f1927ea083d2e357f79cd67c22523c934785fc8bb562f4241cad7250b30fec63283e27cc0fb3282ba6fb1196a1f03599dd78ba8f11307528b0ece9d26ea023ba30aeec3bae30e5524c8ff2e3c154889025990a2396f5c7c.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+				
+				
+					
+						抗议者冲击国会大楼！俄乌还没“开战”，乌克兰先乱了？
+						（来源：看看新闻Knews）
+					
+                                         				
+				
+					
+                                                					
+				
+			
+			
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(1/*(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)*/){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';NTES(".video-inner .video").attr("style", "background: #000;");}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+		
+		
+目前，乌克兰警方已就流氓罪和针对执法人员的暴力行为展开了几起刑事调查，否认了此前有关抗议活动中有一人死亡的说法，并指出一名在抗议活动中生病的男子得到了警察的急救。当地时间1月25日，乌克兰首都基辅议会大厦外发生混乱 图源：视觉中国RT报道称，自2020年底以来，乌克兰企业家们一直在抗议该国税收制度改革。抗议者要求废除强制所有企业都必须使用收银机的法律，并引入一个简化的税收、会计和报告系统。与此同时，抗议者还对乌克兰政府对新冠疫情的限制措施提出了异议。当地时间1月25日，乌克兰首都基辅议会大厦外发生混乱 图源：视觉中国报道称，本次引发争端的法律系乌克兰总统泽连斯基在2020年签署的。该法律要求全国经营者使用特殊的收银机，记录每笔交易的税务记录，并对不遵守者处以高额罚款。此后，虽然一些乌克兰小企业主们一直反对该法律，但该法律仍于2022年1月1日如期生效。延伸阅读乌克兰武装力量增加1.1万人 边境军事部署完成70%近期，乌俄关系加速恶化，双方在两国边境地区部署了大量军事人员和装备。据乌克兰媒体25号报道，乌国防部长列兹尼科夫宣布，乌克兰"领土防卫部队指挥部"于24号成立。目前，乌武装力量增加了1.1万人。列兹尼科夫称，其中1万人属乌"领土防卫部队"，1000人属乌特种作战部队。乌"领土防卫部队"在"全部边境地区"的部署工作已完成70%。他还称，乌情报部门认为，目前俄军尚未组建即将执行进攻任务的"攻击部队"。乌方已研究了"所有最坏情形"并制定了相应预案。美国国防部发言人约翰柯比25号表示,将继续与北约盟国就其"军事需求和愿望"进行磋商，并且不排除美国在海外部署更多军队。美国国防部发言人约翰·柯比说：“我要说的另一件事是，我们不排除在国内，甚至国外，会有更多这样的军事部署。”此前一天，美国国防部称，已命令约8500名军人进入"高度戒备"状态，美国不会直接向乌克兰派兵，但美国及其盟友仍会通过威胁对俄实施经济制裁和向乌克兰提供军事援助等方式，制止俄罗斯"入侵"乌克兰。25号，美国向乌克兰提供的第三批军事援助物资运抵乌克兰，这些物资主要包括武器装备和弹药，将提供给乌克兰武装部队。俄方则表示，正密切关注美国在乌克兰问题上的最新举动。俄罗斯总统新闻秘书佩斯科夫25号表示，美方无论从信息还是实际行动上，都在加剧乌克兰周边紧张局势。
+                    
+                

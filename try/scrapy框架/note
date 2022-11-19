@@ -1,0 +1,6 @@
+1.创建一个工程：scrapy startproject xxx
+2.cd进该工程然后在spiders子目录中创建一个爬虫文件
+    scrapy genspider spiderName www.xxx.com
+    创建CrawlSpider:
+    scrapy genspider -t crawl xxx www.xxx.com
+3.执行工程：scrapy crawl spiderName

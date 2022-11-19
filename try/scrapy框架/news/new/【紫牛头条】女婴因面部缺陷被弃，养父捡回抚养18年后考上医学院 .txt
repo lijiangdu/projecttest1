@@ -1,0 +1,59 @@
+
+                    
+                    
+                        （原标题：【紫牛头条】女婴因面部缺陷被弃，养父捡回抚养18年后考上医学院）
+                    
+                    
+                    
+	
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://static.ws.126.net/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://static.ws.126.net/video/img14/zhuzhan/play.png"); }
+
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://static.ws.126.net/video/img14/zhuzhan/play.png");}
+	
+	
+		
+			
+				
+					
+					
+					
+					
+					
+					
+					
+						
+							
+							
+							
+							
+							
+						
+						
+					
+					 if (1/*/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)*/){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://videoimg.ws.126.net/preview/20210830/30wht0rv3rs_32.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/299489535519864131deaa033df65225c5e93b32c7be8280f9b5a676f656a600bfb2584fa2df48955605a79d66db9d33475a4b03b181a7119482507e000c59f17e71aa2fce483889a3aa06da67b27ec0ef51531d8c29d1c6c268a93d9c49f1eda7f852aa64996c5bfe791bbb4687d2ff82396332ff1f3000.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+				
+				
+					
+						【紫牛头条】女婴因面部缺陷被弃，养父捡回抚养18年后考上医学院
+						（来源：扬眼视频）
+					
+                                         				
+				
+					
+                                                					
+				
+			
+			
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(1/*(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)*/){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';NTES(".video-inner .video").attr("style", "background: #000;");}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+		
+		
+山西运城的18岁女孩王淋宇出生时因先天性面部缺陷被遗弃，养父王银行将她捡回并用心抚养长大。尽管家中不富裕，妻子还患有心脏病，亲戚都劝他放弃，王银行还是坚持边打工边带孩子四处求医。求医过程中，父女俩遇到一位好心医生，经过五次面部修复手术后，淋宇的外貌有了很大改观。受医生和养父的影响，淋宇立志要考医学院，帮助更多人。经过努力，今年她如愿考上山西中医药大学药学类专业。近日，接受扬子晚报紫牛新闻记者采访时，王银行表示，女儿从小自卑内向，常被人说成“怪物”，“既然决定抚养她，我就要有这个担当，不管多辛苦，一定要把她看好。”王淋宇说：“希望在大学能交到好朋友，我会好好学习专业知识，以后帮助别人，回报社会。”领养面部有缺陷被遗弃女婴“以后不用淋雨，我保护她”王银行的妻子患有先天性心脏病，他们没有孩子，一直想领养一个。2003年7月，有人在一处正在建设的楼房里发现了一名襁褓中的女婴，很快女婴被送进了运城市垣曲县蒲掌乡乡政府。王银行和妻子得知后赶去了乡政府，他们是第四对想要领养孩子的夫妻，之前三对夫妻看了女婴的鼻子后，都摇了摇头放弃了。“第一眼看到她的鼻子，一高一低，跟正常人的不一样，娃儿睡得很香，不哭也不闹。我没有孩子，我跟老婆都很喜欢孩子，当时就跟村委和乡政府的人说，以后我养她了。五官上的毛病能整容，只要没有其他毛病，都好办。”办理好领养手续后，王银行就把女婴抱回家了。“那天下着很大的雨，淋着雨我就把她抱回去了，我想干脆就叫她王淋宇吧。”敦厚朴实的王银行想着，以后孩子不用淋雨了，我保护她。王银行告诉记者，在当地民政局的帮助下，小淋宇2岁时在当地医院做过一次手术，但没有太大改善。此后几年，他一边打工攒钱一边带小淋宇四处求医，“咨询过很多专家，人家说像她这种情况，要到12岁才能做手术。”王银行接着说道，“当时我就下了决心，等她到了12岁必须要做手术。”小淋宇8岁时，王银行的妻子因心肌梗塞去世，“当时所有亲戚朋友都劝我不要养这个孩子了，做手术要花很多钱，我说既然领养了人家，就得有这个担当，不管想什么办法，一定要给她做手术。”王银行告诉记者，在学校里，同学们都拿异样的眼光看淋宇，都不跟她交朋友，“很多大人看她也像看怪物一样，被看得多了，她就觉得自己不好看了。”王银行说，但小淋宇很坚强，从来不哭。但渐渐地，他发现女儿总低着头，不爱跟别人交流，越来越内向。王淋宇做手术前“小淋宇从小就聪明，从小学到高中，每年都能拿回五六张奖状。”王银行骄傲地说，女儿一直都特别懂事，学习成绩也非常优异。求医遇到好医生经过五次手术，女孩面貌大变样王银行告诉记者，2015年，父女俩在求医过程中遇到一位好医生，他就是西安交通大学第一附属医院整形美容外科主任舒茂国医生。纪录片《中国医生》第三集就讲述了舒茂国医生的故事，他独创心形缝合技术，为无数唇裂的孩子和他们的家庭带去希望。舒医生告诉紫牛新闻记者，王淋宇患有管状鼻，两个鼻孔的位置不一致，右侧鼻孔是从上面拉下来的，“这样的畸形外貌，别人看了可能会害怕，我也是第一次看到这种情况，当时就在想这个手术该怎么做啊……但作为医生，遇到难题总得想办法攻克啊。”舒医生在帮王淋宇做手术从2015年开始，舒医生陆续帮王淋宇做了五次面部修复手术，如今她的外形已有了很大改观。“第一次手术，我们想办法把她的鼻孔拉下来；第二次手术对疤痕进行修复；之后手术都是对局部形状做微调。因为她里面的骨性鼻腔是不通的，空隙特别小，做完手术也会慢慢长出来，下次手术我们考虑把她的骨性鼻腔彻底打开。”舒医生说，他对手术效果非常满意，能帮助王淋宇找回自信，他也深感欣慰。手术后小淋宇的鼻子形状有了巨大改观据悉，舒茂国医生在得知王淋宇的家庭状况后，主动联系了微笑明天慈善基金会，全程资助了她的手术费。舒医生告诉记者，经常听到有人说一个整形手术，哪有救命来的伟大？他表示，医者的善意和医术对患者的影响，很多时候不能用“救命”这个标准来衡量，“一个面部有缺陷的孩子心里一直会有压力，好的手术不仅能改善她的外形，还能解决心理问题。只有心理彻底健康，阻断社会偏见所带来的伤害，她才能迎来完整的人生。”王银行给舒医生送锦旗表达感谢如愿考上医学院“希望不再有人叫我怪物”舒茂国医生告诉紫牛新闻记者，每次问诊，他都会跟王淋宇交流很长时间，最近学习怎么样？有什么烦恼？长大想干什么？“她一般都是低着头，很小声地回答，很内向，但是当我问她长大想干什么时，她抬起头，非常坚决地告诉我以后想学医。”不知为何，舒医生说他始终相信王淋宇一定行。从舒医生与王淋宇的交谈中，王银行才第一次得知女儿想学医，“当时我很惊讶，从来没有听她说过，娃儿已经想好以后的路了，我只有支持她。”王淋宇在努力学习王银行告诉记者，王淋宇上初三时，他曾想帮孩子寻找亲生父母，“我老婆不在了，我一个人照顾女娃不方便，我能给她父爱，不能给她母爱啊。”王银行表示，如果淋宇能得到亲生父母的关爱，他愿意放手。然而，当地电视台报道了他们的故事，至今也没有人来寻找孩子，“我会好好抚养她，只是孩子缺少了母爱，觉得对不住她。”如今，王淋宇如愿考上了山西中医药大学，王银行觉得生活越来越有盼头，“我现在的目标就是赚钱，让小宇专心读书，以后考研究生，考博士。”王淋宇的录取通知书王银行告诉记者，目前他在一家工厂打杂，每月有三千多元，自己节省一点，供女儿读完大学没有问题，“已经有很多人帮我们了，不能再麻烦人家了，只希望小宇以后要懂得感恩，学好本领，服务社会。”王淋宇告诉记者，最近一个多月，她都在父亲打工的厂里帮忙打扫卫生，赚点生活费。9月3日，她就要去学校报到了，对于即将到来的大学生活，充满了期待，“到了学校，我会好好努力，学好专业。应该没有人再叫我怪物了，希望能交到好朋友。”王淋宇说，一直以来，得到了很多人的帮助，她都默默记在了心里，“特别是我爸和舒教授，如果不是他们这样帮我，改变我的面貌，可能我一辈子都会自卑……现在考上大学了，以后我要努力考研考博，争取能有一个好工作，有能力好好照顾我爸，还要回报社会！”紫牛新闻记者｜万惠娟
+                    
+                

@@ -1,5 +1,5 @@
 import os
-
+import sys
 import numpy as np
 from PIL import Image
 from feature import glcm_feature as glf
@@ -20,27 +20,28 @@ def writeList2CSV(myList,filePath):
     finally:
         file.close();# 操作完成一定要关闭
 
-rootdir = 'E:\\project\\data\\t2\\TrainingImg2'
-maskdir = 'E:\\project\\data\\t2\\TrainingMask1'
+os.chdir(sys.path[0])
+rootdir = './TrainingImg2'
+maskdir = './TrainingMask1'
 niidirs = os.listdir(rootdir)
 f=[]
 for niidir in niidirs:
-    mpdir = maskdir + '\\' + niidir.replace("_0000", "")
-    niidir = rootdir + '\\' + niidir
+    mpdir = maskdir + '/' + niidir.replace("_0000", "")
+    niidir = rootdir + '/' + niidir
     picdirs = os.listdir(niidir)
     for picdir in picdirs:
-        maskpic = mpdir + '\\' + picdir.replace("png", ".png")
-        picdir = niidir + '\\' + picdir
+        maskpic = mpdir + '/' + picdir.replace("png", ".png")
+        picdir = niidir + '/' + picdir
         pics = os.listdir(picdir)
         if(np.mean(Image.open(maskpic).convert('L'))==0.0):
             continue
         else:
             print(maskpic)
-            index = maskpic.rfind("\\")
+            index = maskpic.rfind("/")
             page_feature = int(maskpic[index+1:].replace(".png",""))
             # print(page_feature)
             for pic in pics:
-                pic = picdir + '\\' + pic
+                pic = picdir + '/' + pic
                 # im1 = pic
                 # index = im1.rfind("\\")
                 # im1 = im1[0:index]
@@ -57,9 +58,9 @@ for niidir in niidirs:
                 features.append(page_feature)
                 features.append(lable)
                 f.extend(features)
-                # print(features)
+                print(features)
                 #np.savetxt('D:\\python\\project\\new.csv', features, delimiter=',')
-writeList2CSV(f,'D:\\python\\project\\new.csv')
+writeList2CSV(f,'./project/new.csv')
 # np.savetxt('D:\\python\\project\\new.csv', f, delimiter = ',')
 #print(so.select('E:\\project\\data\\t2\\TrainingImg2\\train_000_0000\\48png\\514.png','E:\\project\\data\\t2\\TrainingMask1\\train_000\\48.png'))
 # im1='E:\\project\\data\\t2\\TrainingImg2\\train_000_0000\\48png\\514.png'

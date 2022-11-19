@@ -1,0 +1,59 @@
+武大靖卫冕失败，王濛看回放：黄大宪这个抬刀动作也太危险了
+                    
+                    
+                        （原标题：武大靖卫冕失败，王濛看回放：黄大宪这个抬刀动作也太危险了）
+                    
+                    
+                     （观察者网讯）2月13日晚，在北京冬奥会短道速滑男子500米比赛中，匈牙利选手刘少昂夺冠。中国选手武大靖获得B组决赛第一，未能实现卫冕。
+	
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://static.ws.126.net/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://static.ws.126.net/video/img14/zhuzhan/play.png"); }
+
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://static.ws.126.net/video/img14/zhuzhan/play.png");}
+	
+	
+		
+			
+				
+					
+					
+					
+					
+					
+					
+					
+						
+							
+							
+							
+							
+							
+						
+						
+					
+					 if (1/*/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)*/){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://videoimg.ws.126.net/cover/20220214/4FN9ZoXm5_cover.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/2994895355198641d99a54443f741267f06beda9d07bf4448bd3a4541ade71e59f89e700fbe97ffce181348c7bd3945dde6596b5db1d81a029c35cb698b15eb8e3487e56e81a4dadc0e94bd624f14405cdcb5a861f9007d5652fe6a60dc0f985cc82370c8c2417ce274e4384b30592648ec45d56471bd0eb.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+				
+				
+					
+						武大靖无缘卫冕：挺遗憾的 把每场比赛当最后一场
+						（来源：看看新闻Knews）
+					
+                                         				
+				
+					
+                                                					
+				
+			
+			
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(1/*(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)*/){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';NTES(".video-inner .video").attr("style", "background: #000;");}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+		
+		
+ 而在早前结束的该项目半决赛第2组比赛中，出现了争议性的一幕：韩国选手黄大宪与加拿大选手史蒂文·杜博伊斯发生碰撞后，黄大宪滑出赛道，但他没有及时收起冰刀。 对此，王濛看回放时解说称：“这个抬刀动作也太危险了，你看大靖最后这块他不躲的话怎么办呢，如果他不躲，不就脸踢刀了啊，大靖在最后一下受干扰了。”  图源：视觉中国 13日晚，北京冬奥会短道速滑男子500米项目在首都体育馆展开角逐，中国选手武大靖、任子威、孙龙出战。任子威、孙龙在500米1/4决赛中遗憾出局，武大靖独自晋级下一轮。 在半决赛第2组比赛中，武大靖一直处在第三位跟滑，最后一圈，韩国选手黄大宪试图从弯道内侧超越加拿大选手杜博伊斯，两人发生碰撞，黄大宪摔出赛道。 这一突发事故也影响到了武大靖的冲刺，他以0.016秒之差位居小组第三，无缘会产生金牌的A组决赛。 赛后，黄大宪因犯规被判出局，杜博伊斯则被判进A组决赛，本组成绩前两名直接晋级A组决赛。  在判罚出来前，转播还没切到回放视频时，对于黄大宪最后一圈的冒险超越，短道速滑世界冠军、前速度滑冰和短道速滑国家队教练组组长王濛点评称：“黄大宪一定会在关键的时候破釜沉舟，这个运动员的滑法就是这样……你跟这样的选手在一起比赛，就是这样。” “就像背上有根刺一样。”黄健翔补充称。 王濛表示：“你除非拉开很远，否则就是后面时刻有一个这样的人，让你滑行的时候不是很舒服，他不会按你的节奏来。” 随后，转播画面切到了本场比赛的碰撞回放，王濛立刻指出：“黄大宪把后脚跟抬了起来，刀抬了起来，我建议（教练组）要去沟通，因为他这个动作太危险了，（大靖）是为了躲避，如果正常滑行就会踢他（黄大宪）冰刀上了。” 王濛继续补充称：“这个抬刀动作也太危险了，你看大靖最后这块他不躲的话怎么办呢，如果他不躲，不就脸踢刀了啊，大靖在最后一下受干扰了。”   图源：东方IC 王濛进一步举例称，在2010年世界杯比赛中，韩国选手金炳俊和中国选手韩佳良发生碰撞摔倒，因金炳俊未及时收起冰刀，导致韩佳良腹部多处被严重割伤、血染赛场，当即被送往医院接受手术。 王濛解释道，在短道速滑中，前面的选手如果把冰刀抬得太高，“影响的不是（后面选手）成绩的问题，是伤病的问题。” 在稍后进行的B组决赛中，武大靖以41秒157的成绩获得B组第一。A组决赛中，匈牙利选手刘少昂以40秒338的成绩夺得金牌，俄奥队选手伊夫利耶夫和加拿大选手杜博伊斯分获亚、季军。延伸阅读武大靖卫冕失败：平静接受 仍是传奇相比四年前，武大靖愈加成熟。面对戏剧化的比赛过程，他始终平静以待。2月13日晚间，北京冬奥会短道速滑男子500米半决赛，身为平昌冬奥会该项赛事冠军的武大靖以0.016秒之差无缘晋级A组的金牌争夺战，遗憾地无缘卫冕。这场比赛引发争议的是韩国选手黄大宪，最终因犯规成绩被取消。 未进A组决赛，无缘卫冕，武大靖平静地接受了这一切，在B组决赛中倾尽所有，滑出第一名的好成绩。武大靖 图据IC photo卫冕的压力贯穿他的备战周期整个北京冬奥会备战周期，武大靖被问到的最多的一句话大概就是“你有信心卫冕吗”？平昌冬奥会上，是他为中国代表团夺得了唯一一枚金牌，而这个项目正是短道速滑男子500米。来到北京冬奥会周期，武大靖一刻都不敢放松：“要付出120%的努力，对我来说，我不是去守，我也是去争冠军，因为能拿冠军的人太多了。”武大靖 图据IC photo力争卫冕，这期间他却承受了巨大的压力甚至是质疑。年龄逐渐大了，国际比赛参加得少了，武大靖的低潮期几乎贯穿了整个备战周期。之前，武大靖帮助中国接力队拿到混合2000米金牌，大家都在期待他成为“双金王”。赛前，武大靖又上了热搜。原来，2年前电视剧《冰糖炖雪梨》大结局中，客串的武大靖鼓励女主角棠雪，要相信自己，坚持梦想，他为棠雪录制了过弯道的训练视频，并约定在2022年的北京冬奥会上相见。如今，武大靖已经夺得冬奥首金，棠雪却失约了。这不是武大靖唯一一次“触屏”。武大靖还在《我在北京等你》中，和自己心中的“女神”江疏影搭戏。孤军奋战今天短道速滑男子500米1/4决赛，另外两位中国队的选手任子威和孙龙全部出局，任子威滑行中与对手发生轻微碰撞，但裁判并未作出判罚，这样500米只剩下卫冕冠军武大靖一人。武大靖在资格赛滑出了40秒23，小组第一；此前的1/4决赛武大靖以40秒528，也是排名小组第一晋级。武大靖在比赛中 图据IC photo武大靖的半决赛在第二组进行比赛，和他同组的5名选手中包括了韩国队选手黄大宪和匈牙利队选手刘少昂。第一枪还是有人抢跑，这对于选手的心理是不小的挑战。因为一旦第二枪再抢跑，就直接失去比赛资格。第二枪，武大靖出发落在第三位。他开始努力追赶，在倒数第二圈时，场上发生碰撞。武大靖最终第三个冲过终点。经过裁判最终判罚，韩国选手黄大宪犯规被处罚，但武大靖依然无缘最终的A组决赛。王濛解说的时候也指出，“黄大宪肯定是犯规了，他关键时刻也是破釜沉舟，滑法也是这样，对杜博伊斯有影响。”对于比赛最后时刻冲刺的动作，王濛指出，“黄大宪的动作对武大靖也有干扰，抬高了冰刀，武大靖只能是躲，这也是带来了影响。”短道速滑，最精彩也最残酷，一个闪身、毫厘之差，都决定着选手是成为传奇抑或传奇的旁观者。不会放弃希望半决赛成绩出来，武大靖无缘卫冕的结局已经不能改变。他只有摒除所有杂念，继续参加B组决赛。时间闪回到刚进国家队的时候，武大靖被认为天赋一般，在前两个年头里，他一直是边缘队员，经常徘徊在二线队伍中，或者是给主力当陪练。那是一段能压垮神经的灰暗日子，每天陪着女队员训练，还被女生超越，武大靖的心里就像是扎着一把刀，“长距离周洋过我，短距离范可新过我，每天自己的自尊心都在受着打击。”正是那段时间的刺激，让武大靖更加刻苦训练，证明自己。武大靖（右二）在比赛中 图据IC photo发令枪响起，武大靖依旧集中注意力，最终以41秒157的成绩位列B组第一。比赛结束后，武大靖挥手向全场观众致意，该项目的世界纪录与奥运纪录依旧由他保持。武大靖曾回应自己多年的坎坷，“十多年以来，我从一个无名小卒到奥运冠军，从状态不稳定到男子500米七连冠，再到现在的状态不佳，这一路走来坎坷不平，这些经历让我知道怎样面对困难。我不会放弃希望、放弃努力！”
+                    
+                

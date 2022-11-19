@@ -1,0 +1,109 @@
+哈萨克斯坦暴徒自述：收钱上街 每人分一瓶“饮料” 喝完就失控
+                    
+                    
+                        （原标题：哈萨克斯坦暴徒自述：收钱上街 每人分一瓶“饮料” 喝完就失控）
+                    
+                    
+                    
+	
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://static.ws.126.net/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://static.ws.126.net/video/img14/zhuzhan/play.png"); }
+
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://static.ws.126.net/video/img14/zhuzhan/play.png");}
+	
+	
+		
+			
+				
+					
+					
+					
+					
+					
+					
+					
+						
+							
+							
+							
+							
+							
+						
+						
+					
+					 if (1/*/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)*/){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://videoimg.ws.126.net/cover/20220107/XgnyGTZvF_cover.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/29948953551986410194d92bba97f3beede158745891d6c390f64cb8ac85470418e69afcf55271e0927d5a6f44c7b2c55065a9c3a4a4df5fd26613047dae04c752dc9da74a95e4f0923957e363ac3e0e86864c328d5da6214d354f6ec134ccea0b196cb07d39cedb0a21cefae4109eada75f23e99003dda4.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+				
+				
+					
+						哈萨克斯坦暴徒开车冲撞警察 持棍棒打头 俄军部队携装甲车抵达
+						（来源：海外网）
+					
+                                         				
+				
+					
+                                                					
+				
+			
+			
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(1/*(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)*/){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';NTES(".video-inner .video").attr("style", "background: #000;");}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+		
+		
+海外网1月8日电 近日哈萨克斯坦发生大规模骚乱，哈萨克斯坦奇姆肯特市副市长接受采访时表示，被捕的暴徒自称获得报酬后参加骚乱，还被分发“能量饮料”。哈萨克斯坦骚乱现场，警车被破坏据塔斯社7日援引哈萨克斯坦“哈巴尔24”电视台报道，奇姆肯特市副市长称，被拘捕的暴徒自述，他们都收了钱，有组织地走上街头，每个人还都收到一瓶“能量饮料”，喝完之后行为就失控。哈萨克斯坦骚乱现场俄新社7日报道称，哈萨克斯坦内政部表示，已有大约4000名恐怖分子被逮捕，其中阿拉木图被捕人数最多，他们可能面临终身监禁。哈萨克斯坦骚乱现场当地时间8日凌晨，哈萨克斯坦总统托卡耶夫在社交媒体发文，再次强调绝不会与恐怖分子谈判，暴徒必须被消灭。托卡耶夫还表示，袭击阿拉木图的暴徒和恐怖分子接受了良好的训练，组织严谨，受特别中心的指挥。他们中的有些人讲的不是哈萨克语。两万名左右的恐怖分子一共对阿拉木图发起了至少六波进攻。（海外网 刘强）
+	
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://static.ws.126.net/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://static.ws.126.net/video/img14/zhuzhan/play.png"); }
+
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://static.ws.126.net/video/img14/zhuzhan/play.png");}
+	
+	
+		
+			
+				
+					
+					
+					
+					
+					
+					
+					
+						
+							
+							
+							
+							
+							
+						
+						
+					
+					 if (1/*/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)*/){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://videoimg.ws.126.net/cover/20220107/w0ulvNH3W_cover.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/29948953551986410194d92bba97f3be01dc6a8ef115266300391c0022fcd4c846df94048cbc134dd7ef9b14e4d2abc7e3293c93f5966c15fcc38d966488f753272d3f72dcde68c95942af28cb030d337d6865c86d4062d4fabd30eb32de046d11f9b49eb98655263c89d51d968eeb1cdb967238a720a3e6.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+				
+				
+					
+						哈萨克斯坦总统称共有2万人袭击阿拉木图，有“外国人”煽动
+						（来源：澎湃新闻）
+					
+                                         				
+				
+					
+                                                					
+				
+			
+			
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(1/*(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)*/){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';NTES(".video-inner .video").attr("style", "background: #000;");}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+		
+		
+相关新闻哈警方缴获暴徒装备并展出：汽油桶醒目 还有各式枪支海外网1月8日电 当地时间7日，哈萨克斯坦阿拉木图警方在平息骚乱过程中，拘捕两批暴徒，并缴获了手枪、卡宾枪、警棍、汽油桶和防毒面罩等众多专业装备，令人触目惊心。哈萨克斯坦警方展示缴获的暴徒装备哈萨克斯坦警方展示缴获的暴徒装备据俄罗斯卫星通讯社报道，警方在2名暴徒的车上，搜出手枪和刀具。还在5名暴徒的藏匿点，缴获了卡宾枪、警棍、汽油桶等装备。哈萨克斯坦警方检查汽车后备箱哈萨克斯坦街头，不明人员向骚乱参加者发枪近日哈萨克斯坦发生大规模骚乱，造成重大人员伤亡和财产损失。5日，哈萨克斯坦总统托卡耶夫签署总统令，该国全境进入紧急状态。集体安全条约组织6日说，应托卡耶夫请求，集安组织决定在哈短期部署维和部队。哈萨克斯坦警方展示缴获的暴徒装备俄新社7日报道称，哈萨克斯坦内政部表示，已有大约4000名恐怖分子被逮捕，其中阿拉木图被捕人数最多，他们可能面临终身监禁。哈萨克斯坦警方追捕暴徒俄官员：哈萨克斯坦抗议活动出现活跃在中东的武装分子据俄塔社6日报道，针对哈萨克斯坦目前的局势，俄罗斯联邦委员会副主席康斯坦丁·科萨切夫表示，由于俄罗斯此前已经批准了集体安全条约以及集体安全条约组织章程，因此俄罗斯议会无需就在集安组织维和行动框架下动用俄特遣队做出额外决定。根据此前报道，集安组织向哈萨克斯坦部署了人数约为2500人的维和部队。康斯坦丁·科萨切夫 图源：俄新社科萨切夫在社交媒体上发文称，“集安组织维和部队的任务是保护哈萨克斯坦的国家和军事设施，并协助执法人员，但该国的法律秩序最终应由哈萨克斯坦政府来恢复。我们的使命是通过确保其‘安全、稳定、领土完整和主权’（引自集体安全条约条文）来帮助他们保护国家。”科萨切夫指出，无论是从集安组织成员国的国内立法还是从国际法来看，集安组织维和行动都是合法的。他写道，“现在已经开始第四阶段——集安组织维和行动。这个阶段是不得已实施的阶段，如果哈萨克斯坦的抗议者避免采取极端主义，不将自己置身于法律之外，这个阶段可能不会发生。从集安组织成员国的国内立法和国际法来看，部署行动是合法的（尽管大家都知道那些希望在哈萨克斯坦看到权力更迭的境外势力将如何评估该行动）。”图源：俄罗斯国防部谈到哈萨克斯坦本轮抗议活动的其他三个阶段，科萨切夫称，“第一阶段是社会经济阶段，即有人抗议液化天然气价格上涨，政府做出回应冻结价格并解散政府，但没有取得效果；第二阶段是社会政治阶段——将抗议活动的地域范围扩大到几乎整个国家，抗议人士的言论也转变为政治性质的，这也得到了政府的即时反应，即更换了安全委员会领导人、准备解散议会并提前举行选举，但这也无济于事；第三阶段是极端政治阶段——抗议者破坏政府建筑、夺取武器、抢劫，社会纪律涣散。所有迹象都表明，第一阶段和第二阶段都不是自发的，最终的目标不是液化天然气价格，而是权力，要用所有可用的方法推翻政权，其中主要采取的是恐怖主义手段。”图源：路透社科萨切夫强调，冲突在最初阶段是社会经济性的，因此完全是哈萨克斯坦内部事务，但之后出现了“通过恐怖主义手段侵略性破坏国家管理体系的特征”。他补充说，“已经有明确的证据——根据收到的情报，活跃在近东和中东国家，主要是阿富汗的激进组织训练有素的武装分子，已经出现在抗议者队伍中。他们曾经包围了哈萨克斯坦武装部队的至少两处部署地点，进行了专业和有效的武装攻击。这不再是民间抗议，当然也不再是哈萨克斯坦的内部事务。这是对我们所有人的威胁。”
+                    
+                
